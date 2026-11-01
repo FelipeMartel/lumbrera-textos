@@ -1,0 +1,406 @@
+{
+ "version": "SpaRV",
+ "licencia": "Public Domain",
+ "descripcion": "La Santa Biblia Reina-Valera (1909)",
+ "fuente": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909",
+ "idioma": "es",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Génesis",
+   "capitulos": 50,
+   "paginas": 419
+  },
+  {
+   "id": "Exod",
+   "nombre": "Éxodo",
+   "capitulos": 40,
+   "paginas": 360
+  },
+  {
+   "id": "Lev",
+   "nombre": "Levítico",
+   "capitulos": 27,
+   "paginas": 260
+  },
+  {
+   "id": "Num",
+   "nombre": "Números",
+   "capitulos": 36,
+   "paginas": 363
+  },
+  {
+   "id": "Deut",
+   "nombre": "Deuteronomio",
+   "capitulos": 34,
+   "paginas": 300
+  },
+  {
+   "id": "Josh",
+   "nombre": "Josué",
+   "capitulos": 24,
+   "paginas": 220
+  },
+  {
+   "id": "Judg",
+   "nombre": "Jueces",
+   "capitulos": 21,
+   "paginas": 213
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Rut",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1 Samuel",
+   "capitulos": 31,
+   "paginas": 286
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2 Samuel",
+   "capitulos": 24,
+   "paginas": 233
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1 Reyes",
+   "capitulos": 22,
+   "paginas": 277
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2 Reyes",
+   "capitulos": 25,
+   "paginas": 263
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1 Crónicas",
+   "capitulos": 29,
+   "paginas": 242
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2 Crónicas",
+   "capitulos": 36,
+   "paginas": 306
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Esdras",
+   "capitulos": 10,
+   "paginas": 90
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemías",
+   "capitulos": 13,
+   "paginas": 126
+  },
+  {
+   "id": "Esth",
+   "nombre": "Ester",
+   "capitulos": 10,
+   "paginas": 64
+  },
+  {
+   "id": "Job",
+   "nombre": "Job",
+   "capitulos": 42,
+   "paginas": 207
+  },
+  {
+   "id": "Ps",
+   "nombre": "Salmos",
+   "capitulos": 150,
+   "paginas": 526
+  },
+  {
+   "id": "Prov",
+   "nombre": "Proverbios",
+   "capitulos": 31,
+   "paginas": 177
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Eclesiastés",
+   "capitulos": 12,
+   "paginas": 67
+  },
+  {
+   "id": "Song",
+   "nombre": "Cantares",
+   "capitulos": 8,
+   "paginas": 31
+  },
+  {
+   "id": "Isa",
+   "nombre": "Isaías",
+   "capitulos": 66,
+   "paginas": 409
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremías",
+   "capitulos": 52,
+   "paginas": 474
+  },
+  {
+   "id": "Lam",
+   "nombre": "Lamentaciones",
+   "capitulos": 5,
+   "paginas": 38
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ezequiel",
+   "capitulos": 48,
+   "paginas": 431
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniel",
+   "capitulos": 12,
+   "paginas": 137
+  },
+  {
+   "id": "Hos",
+   "nombre": "Oseas",
+   "capitulos": 14,
+   "paginas": 59
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joel",
+   "capitulos": 3,
+   "paginas": 22
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amós",
+   "capitulos": 9,
+   "paginas": 48
+  },
+  {
+   "id": "Obad",
+   "nombre": "Abdías",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jonás",
+   "capitulos": 4,
+   "paginas": 16
+  },
+  {
+   "id": "Mic",
+   "nombre": "Miqueas",
+   "capitulos": 7,
+   "paginas": 35
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahum",
+   "capitulos": 3,
+   "paginas": 15
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habacuc",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofonías",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hag",
+   "nombre": "Hageo",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zacarías",
+   "capitulos": 14,
+   "paginas": 76
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malaquías",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 267
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 165
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 283
+  },
+  {
+   "id": "John",
+   "nombre": "Juan",
+   "capitulos": 21,
+   "paginas": 209
+  },
+  {
+   "id": "Acts",
+   "nombre": "Hechos",
+   "capitulos": 28,
+   "paginas": 282
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romanos",
+   "capitulos": 16,
+   "paginas": 114
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Corintios",
+   "capitulos": 16,
+   "paginas": 111
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Corintios",
+   "capitulos": 13,
+   "paginas": 80
+  },
+  {
+   "id": "Gal",
+   "nombre": "Gálatas",
+   "capitulos": 6,
+   "paginas": 40
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesios",
+   "capitulos": 6,
+   "paginas": 39
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipenses",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "Col",
+   "nombre": "Colosenses",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesalonicenses",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesalonicenses",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timoteo",
+   "capitulos": 6,
+   "paginas": 31
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timoteo",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemón",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebreos",
+   "capitulos": 13,
+   "paginas": 86
+  },
+  {
+   "id": "Jas",
+   "nombre": "Santiago",
+   "capitulos": 5,
+   "paginas": 28
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Pedro",
+   "capitulos": 5,
+   "paginas": 32
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Pedro",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Juan",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalipsis",
+   "capitulos": 22,
+   "paginas": 140
+  }
+ ]
+}

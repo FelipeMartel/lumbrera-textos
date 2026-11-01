@@ -1,0 +1,20 @@
+[
+ {
+  "version": "KJV",
+  "licencia": "GPL",
+  "descripcion": "King James Version (1769) with Strongs Numbers and Morphology  and CatchWords",
+  "fuente": "https://gitlab.com/crosswire-bible-society/kjv",
+  "idioma": "en",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "SpaRV",
+  "licencia": "Public Domain",
+  "descripcion": "La Santa Biblia Reina-Valera (1909)",
+  "fuente": "https://es.wikisource.org/wiki/Biblia_Reina-Valera_1909",
+  "idioma": "es",
+  "direccion": "LtoR",
+  "libros": 66
+ }
+]
