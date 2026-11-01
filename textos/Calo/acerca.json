@@ -8,7 +8,7 @@
  "libros": [
   {
    "id": "Luke",
-   "nombre": "Lucas",
+   "nombre": "Luke",
    "capitulos": 24,
    "paginas": 309
   }

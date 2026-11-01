@@ -8,31 +8,31 @@
  "libros": [
   {
    "id": "Esth",
-   "nombre": "Ester",
+   "nombre": "Esther",
    "capitulos": 10,
    "paginas": 73
   },
   {
    "id": "Jonah",
-   "nombre": "Jonás",
+   "nombre": "Jonah",
    "capitulos": 4,
    "paginas": 18
   },
   {
    "id": "Matt",
-   "nombre": "Mateo",
+   "nombre": "Matthew",
    "capitulos": 28,
    "paginas": 303
   },
   {
    "id": "Luke",
-   "nombre": "Lucas",
+   "nombre": "Luke",
    "capitulos": 24,
    "paginas": 326
   },
   {
    "id": "John",
-   "nombre": "Juan",
+   "nombre": "John",
    "capitulos": 21,
    "paginas": 245
   }

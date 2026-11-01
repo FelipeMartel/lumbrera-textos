@@ -11,7 +11,6 @@ import re
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEXTOS = os.path.join(RAIZ, "textos")
-SIN_TRADUCIR = "CebPinadayag GreVamvas Wycliffe Esperanto CroSaric Haitian Mg1865 Ndebele Alb TagAngBiblia".split()
 
 
 def leer(ruta):
@@ -47,6 +46,18 @@ def arreglar_esperanto():
         escribir(ruta, texto)
 
 
+def sin_traducir(version):
+    """Compara con la Reina-Valera: un idioma distinto con sus mismos nombres no esta traducido."""
+    iguales = 0
+    rutas = glob.glob(os.path.join(TEXTOS, version, "*.txt"))
+    for ruta in rutas:
+        espanol = leer(os.path.join(TEXTOS, "SpaRV", os.path.basename(ruta))).split("|", 1)[0]
+        iguales += leer(ruta).split("|", 1)[0] == espanol
+    return iguales == len(rutas)
+
+
 arreglar_esperanto()
-for version in SIN_TRADUCIR:
-    cambiar_nombres(version)
+for carpeta in sorted(os.listdir(TEXTOS)):
+    if carpeta != "SpaRV" and os.path.isdir(os.path.join(TEXTOS, carpeta)) and sin_traducir(carpeta):
+        print(carpeta)
+        cambiar_nombres(carpeta)

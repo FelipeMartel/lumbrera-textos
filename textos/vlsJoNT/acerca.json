@@ -8,163 +8,163 @@
  "libros": [
   {
    "id": "Matt",
-   "nombre": "Mateo",
+   "nombre": "Matthew",
    "capitulos": 28,
    "paginas": 292
   },
   {
    "id": "Mark",
-   "nombre": "Marcos",
+   "nombre": "Mark",
    "capitulos": 16,
    "paginas": 183
   },
   {
    "id": "Luke",
-   "nombre": "Lucas",
+   "nombre": "Luke",
    "capitulos": 24,
    "paginas": 315
   },
   {
    "id": "John",
-   "nombre": "Juan",
+   "nombre": "John",
    "capitulos": 21,
    "paginas": 232
   },
   {
    "id": "Acts",
-   "nombre": "Hechos",
+   "nombre": "Acts",
    "capitulos": 28,
    "paginas": 303
   },
   {
    "id": "Rom",
-   "nombre": "Romanos",
+   "nombre": "Romans",
    "capitulos": 16,
    "paginas": 125
   },
   {
    "id": "1Cor",
-   "nombre": "1 Corintios",
+   "nombre": "1 Corinthians",
    "capitulos": 16,
    "paginas": 121
   },
   {
    "id": "2Cor",
-   "nombre": "2 Corintios",
+   "nombre": "2 Corinthians",
    "capitulos": 13,
    "paginas": 81
   },
   {
    "id": "Gal",
-   "nombre": "Gálatas",
+   "nombre": "Galatians",
    "capitulos": 6,
    "paginas": 41
   },
   {
    "id": "Eph",
-   "nombre": "Efesios",
+   "nombre": "Ephesians",
    "capitulos": 6,
    "paginas": 39
   },
   {
    "id": "Phil",
-   "nombre": "Filipenses",
+   "nombre": "Philippians",
    "capitulos": 4,
    "paginas": 29
   },
   {
    "id": "Col",
-   "nombre": "Colosenses",
+   "nombre": "Colossians",
    "capitulos": 4,
    "paginas": 27
   },
   {
    "id": "1Thess",
-   "nombre": "1 Tesalonicenses",
+   "nombre": "1 Thessalonians",
    "capitulos": 5,
    "paginas": 24
   },
   {
    "id": "2Thess",
-   "nombre": "2 Tesalonicenses",
+   "nombre": "2 Thessalonians",
    "capitulos": 3,
    "paginas": 14
   },
   {
    "id": "1Tim",
-   "nombre": "1 Timoteo",
+   "nombre": "1 Timothy",
    "capitulos": 6,
    "paginas": 34
   },
   {
    "id": "2Tim",
-   "nombre": "2 Timoteo",
+   "nombre": "2 Timothy",
    "capitulos": 4,
    "paginas": 24
   },
   {
    "id": "Titus",
-   "nombre": "Tito",
+   "nombre": "Titus",
    "capitulos": 3,
    "paginas": 14
   },
   {
    "id": "Phlm",
-   "nombre": "Filemón",
+   "nombre": "Philemon",
    "capitulos": 1,
    "paginas": 5
   },
   {
    "id": "Heb",
-   "nombre": "Hebreos",
+   "nombre": "Hebrews",
    "capitulos": 13,
    "paginas": 94
   },
   {
    "id": "Jas",
-   "nombre": "Santiago",
+   "nombre": "James",
    "capitulos": 5,
    "paginas": 31
   },
   {
    "id": "1Pet",
-   "nombre": "1 Pedro",
+   "nombre": "1 Peter",
    "capitulos": 5,
    "paginas": 35
   },
   {
    "id": "2Pet",
-   "nombre": "2 Pedro",
+   "nombre": "2 Peter",
    "capitulos": 3,
    "paginas": 21
   },
   {
    "id": "1John",
-   "nombre": "1 Juan",
+   "nombre": "1 John",
    "capitulos": 5,
    "paginas": 33
   },
   {
    "id": "2John",
-   "nombre": "2 Juan",
+   "nombre": "2 John",
    "capitulos": 1,
    "paginas": 4
   },
   {
    "id": "3John",
-   "nombre": "3 Juan",
+   "nombre": "3 John",
    "capitulos": 1,
    "paginas": 4
   },
   {
    "id": "Jude",
-   "nombre": "Judas",
+   "nombre": "Jude",
    "capitulos": 1,
    "paginas": 8
   },
   {
    "id": "Rev",
-   "nombre": "Apocalipsis",
+   "nombre": "Revelation of John",
    "capitulos": 22,
    "paginas": 151
   }

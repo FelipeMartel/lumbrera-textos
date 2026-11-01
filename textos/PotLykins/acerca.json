@@ -8,13 +8,13 @@
  "libros": [
   {
    "id": "Matt",
-   "nombre": "Mateo",
+   "nombre": "Matthew",
    "capitulos": 28,
    "paginas": 305
   },
   {
    "id": "Acts",
-   "nombre": "Hechos",
+   "nombre": "Acts",
    "capitulos": 28,
    "paginas": 308
   }
