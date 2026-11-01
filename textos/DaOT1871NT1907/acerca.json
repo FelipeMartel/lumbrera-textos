@@ -1,0 +1,406 @@
+{
+ "version": "DaOT1871NT1907",
+ "licencia": "Public Domain",
+ "descripcion": "Danish OT1871 + NT1907 with original orthography",
+ "fuente": "https://github.com/emg/",
+ "idioma": "da",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Første Mosebog",
+   "capitulos": 50,
+   "paginas": 422
+  },
+  {
+   "id": "Exod",
+   "nombre": "Anden Mosebog",
+   "capitulos": 40,
+   "paginas": 361
+  },
+  {
+   "id": "Lev",
+   "nombre": "Tredje Mosebog",
+   "capitulos": 27,
+   "paginas": 271
+  },
+  {
+   "id": "Num",
+   "nombre": "Fjerde Mosebog",
+   "capitulos": 36,
+   "paginas": 362
+  },
+  {
+   "id": "Deut",
+   "nombre": "Femte Mosebog",
+   "capitulos": 34,
+   "paginas": 317
+  },
+  {
+   "id": "Josh",
+   "nombre": "Josvabogen",
+   "capitulos": 24,
+   "paginas": 214
+  },
+  {
+   "id": "Judg",
+   "nombre": "Dommerbogen",
+   "capitulos": 21,
+   "paginas": 213
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Ruths Bog",
+   "capitulos": 4,
+   "paginas": 31
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Samuelsbog",
+   "capitulos": 31,
+   "paginas": 290
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Samuelsbog",
+   "capitulos": 24,
+   "paginas": 233
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1. Kongebog",
+   "capitulos": 22,
+   "paginas": 274
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2. Kongebog",
+   "capitulos": 25,
+   "paginas": 263
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Krønikebog",
+   "capitulos": 29,
+   "paginas": 235
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Krønikebog",
+   "capitulos": 36,
+   "paginas": 302
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezras Bog",
+   "capitulos": 10,
+   "paginas": 85
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemias' Bog",
+   "capitulos": 13,
+   "paginas": 123
+  },
+  {
+   "id": "Esth",
+   "nombre": "Esters Bog",
+   "capitulos": 10,
+   "paginas": 70
+  },
+  {
+   "id": "Job",
+   "nombre": "Jobs Bog",
+   "capitulos": 42,
+   "paginas": 221
+  },
+  {
+   "id": "Ps",
+   "nombre": "Salmernes Bog",
+   "capitulos": 150,
+   "paginas": 534
+  },
+  {
+   "id": "Prov",
+   "nombre": "Ordsprogenes Bog",
+   "capitulos": 31,
+   "paginas": 183
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Prædikerens Bog",
+   "capitulos": 12,
+   "paginas": 67
+  },
+  {
+   "id": "Song",
+   "nombre": "Højsangen",
+   "capitulos": 8,
+   "paginas": 33
+  },
+  {
+   "id": "Isa",
+   "nombre": "Esajas' Bog",
+   "capitulos": 66,
+   "paginas": 430
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremias' Bog",
+   "capitulos": 52,
+   "paginas": 487
+  },
+  {
+   "id": "Lam",
+   "nombre": "Klagesangene",
+   "capitulos": 5,
+   "paginas": 42
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ezekiels Bog",
+   "capitulos": 48,
+   "paginas": 457
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniels Bog",
+   "capitulos": 12,
+   "paginas": 138
+  },
+  {
+   "id": "Hos",
+   "nombre": "Hoseas' Bog",
+   "capitulos": 14,
+   "paginas": 63
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joels Bog",
+   "capitulos": 3,
+   "paginas": 21
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amos' Bog",
+   "capitulos": 9,
+   "paginas": 49
+  },
+  {
+   "id": "Obad",
+   "nombre": "Obadias' Bog",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jonas' Bog",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Mikas Bog",
+   "capitulos": 7,
+   "paginas": 35
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahums Bog",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habakkuks Bog",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sefanias' Bog",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Hag",
+   "nombre": "Haggajs Bog",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zakarias' Bog",
+   "capitulos": 14,
+   "paginas": 77
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malakias' Bog",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Matt",
+   "nombre": "Matthæusevangeliet",
+   "capitulos": 28,
+   "paginas": 272
+  },
+  {
+   "id": "Mark",
+   "nombre": "Markusevangeliet",
+   "capitulos": 16,
+   "paginas": 171
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lukasevangeliet",
+   "capitulos": 24,
+   "paginas": 287
+  },
+  {
+   "id": "John",
+   "nombre": "Johannesevangeliet",
+   "capitulos": 21,
+   "paginas": 220
+  },
+  {
+   "id": "Acts",
+   "nombre": "Apostlenes Gerninger",
+   "capitulos": 28,
+   "paginas": 285
+  },
+  {
+   "id": "Rom",
+   "nombre": "Paulus' Brev til Romerne",
+   "capitulos": 16,
+   "paginas": 115
+  },
+  {
+   "id": "1Cor",
+   "nombre": "Paulus' Første Brev til  Korintherne",
+   "capitulos": 16,
+   "paginas": 113
+  },
+  {
+   "id": "2Cor",
+   "nombre": "Paulus' Andet Brev til  Korintherne",
+   "capitulos": 13,
+   "paginas": 75
+  },
+  {
+   "id": "Gal",
+   "nombre": "Paulus' Brev til Galaterne",
+   "capitulos": 6,
+   "paginas": 39
+  },
+  {
+   "id": "Eph",
+   "nombre": "Paulus' Brev til Efeserne",
+   "capitulos": 6,
+   "paginas": 36
+  },
+  {
+   "id": "Phil",
+   "nombre": "Paulus' Brev til Filipperne",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "Col",
+   "nombre": "Paulus' Brev til Kolossenserne",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "1Thess",
+   "nombre": "Paulus' Første Brev til Thessalonikerne",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "2Thess",
+   "nombre": "Paulus' Andet Brev til Thessalonikerne",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "1Tim",
+   "nombre": "Paulus' Første Brev til Timotheus",
+   "capitulos": 6,
+   "paginas": 30
+  },
+  {
+   "id": "2Tim",
+   "nombre": "Paulus' Andet Brev til Timotheus",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Titus",
+   "nombre": "Paulus' Brev til Titus",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Paulus' Brev til Filemon",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Heb",
+   "nombre": "Brevet til Hebræerne",
+   "capitulos": 13,
+   "paginas": 85
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakobs Brev",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "1Pet",
+   "nombre": "Peters Første Brev",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "2Pet",
+   "nombre": "Peters Andet Brev",
+   "capitulos": 3,
+   "paginas": 19
+  },
+  {
+   "id": "1John",
+   "nombre": "Johannes' Første Brev",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2John",
+   "nombre": "Johannes' Andet Brev",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "Johannes' Tredje Brev",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas' Brev",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Johannes' Åbenbaring",
+   "capitulos": 22,
+   "paginas": 134
+  }
+ ]
+}

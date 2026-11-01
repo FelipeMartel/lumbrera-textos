@@ -1,0 +1,406 @@
+{
+ "version": "FinBiblia",
+ "licencia": "Public Domain",
+ "descripcion": "Finnish Biblia (1776)",
+ "fuente": "https://www.finbible.fi/head/bibl.htm",
+ "idioma": "fi",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "1. Mooseksen kirja",
+   "capitulos": 50,
+   "paginas": 456
+  },
+  {
+   "id": "Exod",
+   "nombre": "2. Mooseksen kirja",
+   "capitulos": 40,
+   "paginas": 383
+  },
+  {
+   "id": "Lev",
+   "nombre": "3. Mooseksen kirja",
+   "capitulos": 27,
+   "paginas": 279
+  },
+  {
+   "id": "Num",
+   "nombre": "4. Mooseksen kirja",
+   "capitulos": 36,
+   "paginas": 376
+  },
+  {
+   "id": "Deut",
+   "nombre": "5. Mooseksen kirja",
+   "capitulos": 34,
+   "paginas": 332
+  },
+  {
+   "id": "Josh",
+   "nombre": "Joosua",
+   "capitulos": 24,
+   "paginas": 222
+  },
+  {
+   "id": "Judg",
+   "nombre": "Tuomarien kirja",
+   "capitulos": 21,
+   "paginas": 226
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Ruut",
+   "capitulos": 4,
+   "paginas": 30
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Samuelin kirja",
+   "capitulos": 31,
+   "paginas": 298
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Samuelin kirja",
+   "capitulos": 24,
+   "paginas": 245
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1. Kuninkaiden kirja",
+   "capitulos": 22,
+   "paginas": 289
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2. Kuninkaiden kirja",
+   "capitulos": 25,
+   "paginas": 278
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Aikakirja",
+   "capitulos": 29,
+   "paginas": 243
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Aikakirja",
+   "capitulos": 36,
+   "paginas": 317
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Esra",
+   "capitulos": 10,
+   "paginas": 90
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemia",
+   "capitulos": 13,
+   "paginas": 127
+  },
+  {
+   "id": "Esth",
+   "nombre": "Ester",
+   "capitulos": 10,
+   "paginas": 69
+  },
+  {
+   "id": "Job",
+   "nombre": "Job",
+   "capitulos": 42,
+   "paginas": 225
+  },
+  {
+   "id": "Ps",
+   "nombre": "Psalmit",
+   "capitulos": 150,
+   "paginas": 558
+  },
+  {
+   "id": "Prov",
+   "nombre": "Sananlaskut",
+   "capitulos": 31,
+   "paginas": 177
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Saarnaaja",
+   "capitulos": 12,
+   "paginas": 67
+  },
+  {
+   "id": "Song",
+   "nombre": "Laulujen laulu",
+   "capitulos": 8,
+   "paginas": 36
+  },
+  {
+   "id": "Isa",
+   "nombre": "Jesaja",
+   "capitulos": 66,
+   "paginas": 444
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremia",
+   "capitulos": 52,
+   "paginas": 524
+  },
+  {
+   "id": "Lam",
+   "nombre": "Valitusvirret",
+   "capitulos": 5,
+   "paginas": 45
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Hesekiel",
+   "capitulos": 48,
+   "paginas": 467
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniel",
+   "capitulos": 12,
+   "paginas": 144
+  },
+  {
+   "id": "Hos",
+   "nombre": "Hoosea",
+   "capitulos": 14,
+   "paginas": 69
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joel",
+   "capitulos": 3,
+   "paginas": 24
+  },
+  {
+   "id": "Amos",
+   "nombre": "Aamos",
+   "capitulos": 9,
+   "paginas": 50
+  },
+  {
+   "id": "Obad",
+   "nombre": "Obadja",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Joona",
+   "capitulos": 4,
+   "paginas": 16
+  },
+  {
+   "id": "Mic",
+   "nombre": "Miika",
+   "capitulos": 7,
+   "paginas": 41
+  },
+  {
+   "id": "Nah",
+   "nombre": "Naahum",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habakuk",
+   "capitulos": 3,
+   "paginas": 19
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sefanja",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Hag",
+   "nombre": "Haggai",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Sakarja",
+   "capitulos": 14,
+   "paginas": 79
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malakia",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "Matt",
+   "nombre": "Matteus",
+   "capitulos": 28,
+   "paginas": 290
+  },
+  {
+   "id": "Mark",
+   "nombre": "Markus",
+   "capitulos": 16,
+   "paginas": 180
+  },
+  {
+   "id": "Luke",
+   "nombre": "Luukas",
+   "capitulos": 24,
+   "paginas": 305
+  },
+  {
+   "id": "John",
+   "nombre": "Johannes",
+   "capitulos": 21,
+   "paginas": 233
+  },
+  {
+   "id": "Acts",
+   "nombre": "Apostolien teot",
+   "capitulos": 28,
+   "paginas": 307
+  },
+  {
+   "id": "Rom",
+   "nombre": "Roomalaiskirje",
+   "capitulos": 16,
+   "paginas": 124
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Korinttolaiskirje",
+   "capitulos": 16,
+   "paginas": 118
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Korinttolaiskirje",
+   "capitulos": 13,
+   "paginas": 86
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galatalaiskirje",
+   "capitulos": 6,
+   "paginas": 41
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesolaiskirje",
+   "capitulos": 6,
+   "paginas": 40
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filippiläiskirje",
+   "capitulos": 4,
+   "paginas": 30
+  },
+  {
+   "id": "Col",
+   "nombre": "Kolossalaiskirje",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Tessalonikalaiskirje",
+   "capitulos": 5,
+   "paginas": 26
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Tessalonikalaiskirje",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. kirje Timoteukselle",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. kirje Timoteukselle",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Titus",
+   "nombre": "Kirje Titukselle",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Kirje Filemonille",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Heb",
+   "nombre": "Heprealaiskirje",
+   "capitulos": 13,
+   "paginas": 90
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jaakobin kirje",
+   "capitulos": 5,
+   "paginas": 31
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Pietarin kirje",
+   "capitulos": 5,
+   "paginas": 33
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Pietarin kirje",
+   "capitulos": 3,
+   "paginas": 21
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Johanneksen kirje",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Johanneksen kirje",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Johanneksen kirje",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Juudaksen kirje",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Johanneksen ilmestys",
+   "capitulos": 22,
+   "paginas": 147
+  }
+ ]
+}

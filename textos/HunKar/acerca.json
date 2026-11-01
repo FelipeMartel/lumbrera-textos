@@ -1,0 +1,406 @@
+{
+ "version": "HunKar",
+ "licencia": "Public Domain",
+ "descripcion": "Revideált Károli Biblia 1908",
+ "fuente": "https://github.com/krisek/HunKar",
+ "idioma": "hu",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Mózes I. könyve",
+   "capitulos": 50,
+   "paginas": 433
+  },
+  {
+   "id": "Exod",
+   "nombre": "Mózes II. könyve",
+   "capitulos": 40,
+   "paginas": 350
+  },
+  {
+   "id": "Lev",
+   "nombre": "Mózes III. könyve",
+   "capitulos": 27,
+   "paginas": 265
+  },
+  {
+   "id": "Num",
+   "nombre": "Mózes IV. könyve",
+   "capitulos": 36,
+   "paginas": 363
+  },
+  {
+   "id": "Deut",
+   "nombre": "Mózes V. könyve",
+   "capitulos": 34,
+   "paginas": 327
+  },
+  {
+   "id": "Josh",
+   "nombre": "Józsue könyve",
+   "capitulos": 24,
+   "paginas": 218
+  },
+  {
+   "id": "Judg",
+   "nombre": "Bírák könyve",
+   "capitulos": 21,
+   "paginas": 215
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Ruth könyve",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Sam",
+   "nombre": "Sámuel I. könyve",
+   "capitulos": 31,
+   "paginas": 295
+  },
+  {
+   "id": "2Sam",
+   "nombre": "Sámuel II. könyve",
+   "capitulos": 24,
+   "paginas": 242
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "Királyok I. könyve",
+   "capitulos": 22,
+   "paginas": 289
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "Királyok II. könyve",
+   "capitulos": 25,
+   "paginas": 271
+  },
+  {
+   "id": "1Chr",
+   "nombre": "Krónikák I. könyve",
+   "capitulos": 29,
+   "paginas": 243
+  },
+  {
+   "id": "2Chr",
+   "nombre": "Krónikák II. könyve",
+   "capitulos": 36,
+   "paginas": 314
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezsdrás könyve",
+   "capitulos": 10,
+   "paginas": 84
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehémiás könyve",
+   "capitulos": 13,
+   "paginas": 126
+  },
+  {
+   "id": "Esth",
+   "nombre": "Eszter könyve",
+   "capitulos": 10,
+   "paginas": 65
+  },
+  {
+   "id": "Job",
+   "nombre": "Jób könyve",
+   "capitulos": 42,
+   "paginas": 212
+  },
+  {
+   "id": "Ps",
+   "nombre": "Zsoltárok könyve",
+   "capitulos": 150,
+   "paginas": 528
+  },
+  {
+   "id": "Prov",
+   "nombre": "Példabeszédek",
+   "capitulos": 31,
+   "paginas": 183
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Prédikátor könyve",
+   "capitulos": 12,
+   "paginas": 72
+  },
+  {
+   "id": "Song",
+   "nombre": "Énekek éneke",
+   "capitulos": 8,
+   "paginas": 34
+  },
+  {
+   "id": "Isa",
+   "nombre": "Ésaiás próféta könyve",
+   "capitulos": 66,
+   "paginas": 398
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremiás próféta könyve",
+   "capitulos": 52,
+   "paginas": 482
+  },
+  {
+   "id": "Lam",
+   "nombre": "Jeremiás siralmai",
+   "capitulos": 5,
+   "paginas": 37
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ezékiel próféta könyve",
+   "capitulos": 48,
+   "paginas": 422
+  },
+  {
+   "id": "Dan",
+   "nombre": "Dániel próféta könyve",
+   "capitulos": 12,
+   "paginas": 134
+  },
+  {
+   "id": "Hos",
+   "nombre": "Hóseás próféta könyve",
+   "capitulos": 14,
+   "paginas": 59
+  },
+  {
+   "id": "Joel",
+   "nombre": "Jóel próféta könyve",
+   "capitulos": 3,
+   "paginas": 22
+  },
+  {
+   "id": "Amos",
+   "nombre": "Ámós próféta könyve",
+   "capitulos": 9,
+   "paginas": 48
+  },
+  {
+   "id": "Obad",
+   "nombre": "Abdiás próféta könyve",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jónás próféta könyve",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Mikeás próféta könyve",
+   "capitulos": 7,
+   "paginas": 33
+  },
+  {
+   "id": "Nah",
+   "nombre": "Náhum próféta könyve",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habakuk próféta könyve",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofóniás próféta könyve",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hag",
+   "nombre": "Aggeus próféta könyve",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zakariás próféta könyve",
+   "capitulos": 14,
+   "paginas": 75
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malakiás próféta könyve",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Matt",
+   "nombre": "Máté evangéliuma",
+   "capitulos": 28,
+   "paginas": 283
+  },
+  {
+   "id": "Mark",
+   "nombre": "Márk evangéliuma",
+   "capitulos": 16,
+   "paginas": 174
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lukács evangéliuma",
+   "capitulos": 24,
+   "paginas": 298
+  },
+  {
+   "id": "John",
+   "nombre": "János evangéliuma",
+   "capitulos": 21,
+   "paginas": 224
+  },
+  {
+   "id": "Acts",
+   "nombre": "Apostolok Cselekedetei",
+   "capitulos": 28,
+   "paginas": 299
+  },
+  {
+   "id": "Rom",
+   "nombre": "Rómabeliekhez írt levél",
+   "capitulos": 16,
+   "paginas": 119
+  },
+  {
+   "id": "1Cor",
+   "nombre": "Korinthusbeliekhez írt I. levél",
+   "capitulos": 16,
+   "paginas": 118
+  },
+  {
+   "id": "2Cor",
+   "nombre": "Korintusiaknak írt II. levél",
+   "capitulos": 13,
+   "paginas": 77
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galátziabeliekhez írt levél",
+   "capitulos": 6,
+   "paginas": 39
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efézusbeliekhez írt levél",
+   "capitulos": 6,
+   "paginas": 41
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filippibeliekhez írt levél",
+   "capitulos": 4,
+   "paginas": 29
+  },
+  {
+   "id": "Col",
+   "nombre": "Kolossébeliekhez írt levél",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Thess",
+   "nombre": "Thessalonikabeliekhez írt I. levél",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2Thess",
+   "nombre": "Thessalonikabeliekhez írt II. levél",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "1Tim",
+   "nombre": "Timóteusnak írt I. levél",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "2Tim",
+   "nombre": "Timótheushoz írt II. levél",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Titus",
+   "nombre": "Titushoz írt levél",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemonhoz írt levél",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Heb",
+   "nombre": "Zsidókhoz írt levél",
+   "capitulos": 13,
+   "paginas": 86
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakab Apostol levele",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "1Pet",
+   "nombre": "Péter Apostol I. levele",
+   "capitulos": 5,
+   "paginas": 33
+  },
+  {
+   "id": "2Pet",
+   "nombre": "Péter Apostol II. levele",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "1John",
+   "nombre": "János Apostol I. levele",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "2John",
+   "nombre": "Szent János II. levele",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "János Apostol III. levele",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Júdás Apostol levele",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Jelenések könyve",
+   "capitulos": 22,
+   "paginas": 142
+  }
+ ]
+}

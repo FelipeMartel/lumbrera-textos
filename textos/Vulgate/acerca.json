@@ -1,0 +1,406 @@
+{
+ "version": "Vulgate",
+ "licencia": "Public Domain",
+ "descripcion": "Latin Vulgate",
+ "fuente": "https://www.ccel.org/ccel/b/bible/vul/cache/vul.txt",
+ "idioma": "la",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Genesis",
+   "capitulos": 50,
+   "paginas": 372
+  },
+  {
+   "id": "Exod",
+   "nombre": "Exodus",
+   "capitulos": 40,
+   "paginas": 302
+  },
+  {
+   "id": "Lev",
+   "nombre": "Leviticus",
+   "capitulos": 27,
+   "paginas": 215
+  },
+  {
+   "id": "Num",
+   "nombre": "Numeri",
+   "capitulos": 36,
+   "paginas": 302
+  },
+  {
+   "id": "Deut",
+   "nombre": "Deuteronomium",
+   "capitulos": 34,
+   "paginas": 273
+  },
+  {
+   "id": "Josh",
+   "nombre": "Iosue",
+   "capitulos": 24,
+   "paginas": 187
+  },
+  {
+   "id": "Judg",
+   "nombre": "Judicum",
+   "capitulos": 21,
+   "paginas": 191
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Ruth",
+   "capitulos": 4,
+   "paginas": 26
+  },
+  {
+   "id": "1Sam",
+   "nombre": "I Samuhel",
+   "capitulos": 31,
+   "paginas": 261
+  },
+  {
+   "id": "2Sam",
+   "nombre": "II Samuhel",
+   "capitulos": 24,
+   "paginas": 207
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "I Regum",
+   "capitulos": 22,
+   "paginas": 247
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "II Regum",
+   "capitulos": 25,
+   "paginas": 237
+  },
+  {
+   "id": "1Chr",
+   "nombre": "I Paralipomenon",
+   "capitulos": 29,
+   "paginas": 218
+  },
+  {
+   "id": "2Chr",
+   "nombre": "II Paralipomenon",
+   "capitulos": 36,
+   "paginas": 283
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezras",
+   "capitulos": 10,
+   "paginas": 77
+  },
+  {
+   "id": "Neh",
+   "nombre": "Neemia",
+   "capitulos": 13,
+   "paginas": 110
+  },
+  {
+   "id": "Esth",
+   "nombre": "Hester",
+   "capitulos": 16,
+   "paginas": 98
+  },
+  {
+   "id": "Job",
+   "nombre": "Iob",
+   "capitulos": 42,
+   "paginas": 192
+  },
+  {
+   "id": "Ps",
+   "nombre": "Psalmi",
+   "capitulos": 150,
+   "paginas": 514
+  },
+  {
+   "id": "Prov",
+   "nombre": "Proverbia",
+   "capitulos": 31,
+   "paginas": 157
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Ecclesiastes",
+   "capitulos": 12,
+   "paginas": 57
+  },
+  {
+   "id": "Song",
+   "nombre": "Canticum",
+   "capitulos": 8,
+   "paginas": 30
+  },
+  {
+   "id": "Isa",
+   "nombre": "Isaias",
+   "capitulos": 66,
+   "paginas": 377
+  },
+  {
+   "id": "Jer",
+   "nombre": "Hieremias",
+   "capitulos": 52,
+   "paginas": 430
+  },
+  {
+   "id": "Lam",
+   "nombre": "Lamentationes",
+   "capitulos": 5,
+   "paginas": 37
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Hiezecihel",
+   "capitulos": 48,
+   "paginas": 399
+  },
+  {
+   "id": "Dan",
+   "nombre": "Danihel",
+   "capitulos": 14,
+   "paginas": 162
+  },
+  {
+   "id": "Hos",
+   "nombre": "Osee",
+   "capitulos": 14,
+   "paginas": 54
+  },
+  {
+   "id": "Joel",
+   "nombre": "Johel",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amos",
+   "capitulos": 9,
+   "paginas": 44
+  },
+  {
+   "id": "Obad",
+   "nombre": "Abdias",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Ionas",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Micha",
+   "capitulos": 7,
+   "paginas": 33
+  },
+  {
+   "id": "Nah",
+   "nombre": "Naum",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Abacuc",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofonias",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Hag",
+   "nombre": "Aggeus",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zaccharias",
+   "capitulos": 14,
+   "paginas": 65
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malachi",
+   "capitulos": 4,
+   "paginas": 19
+  },
+  {
+   "id": "Matt",
+   "nombre": "Secundum Mattheum",
+   "capitulos": 28,
+   "paginas": 239
+  },
+  {
+   "id": "Mark",
+   "nombre": "Secundum Marcum",
+   "capitulos": 16,
+   "paginas": 149
+  },
+  {
+   "id": "Luke",
+   "nombre": "Secundum Lucam",
+   "capitulos": 24,
+   "paginas": 255
+  },
+  {
+   "id": "John",
+   "nombre": "Secundum Iohannem",
+   "capitulos": 21,
+   "paginas": 189
+  },
+  {
+   "id": "Acts",
+   "nombre": "Actus Apostolorum",
+   "capitulos": 28,
+   "paginas": 249
+  },
+  {
+   "id": "Rom",
+   "nombre": "Ad Romanos",
+   "capitulos": 16,
+   "paginas": 99
+  },
+  {
+   "id": "1Cor",
+   "nombre": "Ad Corinthios I",
+   "capitulos": 16,
+   "paginas": 94
+  },
+  {
+   "id": "2Cor",
+   "nombre": "Ad Corinthios II",
+   "capitulos": 13,
+   "paginas": 63
+  },
+  {
+   "id": "Gal",
+   "nombre": "Ad Galatas",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "Eph",
+   "nombre": "Ad Ephesios",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Phil",
+   "nombre": "Ad Philippenses",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Col",
+   "nombre": "Ad Colossenses",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "1Thess",
+   "nombre": "Ad Thessalonicenses I",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "2Thess",
+   "nombre": "Ad Thessalonicenses II",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "1Tim",
+   "nombre": "Ad Timotheum I",
+   "capitulos": 6,
+   "paginas": 25
+  },
+  {
+   "id": "2Tim",
+   "nombre": "Ad Timotheum II",
+   "capitulos": 4,
+   "paginas": 18
+  },
+  {
+   "id": "Titus",
+   "nombre": "Ad Titum",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Ad Philemonem",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Heb",
+   "nombre": "Ad Hebraeos",
+   "capitulos": 13,
+   "paginas": 74
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jacobi",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "1Pet",
+   "nombre": "Petri I",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2Pet",
+   "nombre": "Petri II",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "1John",
+   "nombre": "Iohannis I",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "2John",
+   "nombre": "Iohannis II",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "Iohannis III",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judae",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalypsis",
+   "capitulos": 22,
+   "paginas": 121
+  }
+ ]
+}

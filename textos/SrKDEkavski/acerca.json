@@ -1,0 +1,406 @@
+{
+ "version": "SrKDEkavski",
+ "licencia": "Public Domain",
+ "descripcion": "Serbian Bible Daničić-Karadžić Ekavski",
+ "fuente": "",
+ "idioma": "sr",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Postanak",
+   "capitulos": 50,
+   "paginas": 355
+  },
+  {
+   "id": "Exod",
+   "nombre": "Izlazakq",
+   "capitulos": 40,
+   "paginas": 295
+  },
+  {
+   "id": "Lev",
+   "nombre": "Levitski Zakonik",
+   "capitulos": 27,
+   "paginas": 220
+  },
+  {
+   "id": "Num",
+   "nombre": "Brojevi",
+   "capitulos": 36,
+   "paginas": 301
+  },
+  {
+   "id": "Deut",
+   "nombre": "Ponovljeni Zakon",
+   "capitulos": 34,
+   "paginas": 256
+  },
+  {
+   "id": "Josh",
+   "nombre": "Isus Navin",
+   "capitulos": 24,
+   "paginas": 181
+  },
+  {
+   "id": "Judg",
+   "nombre": "Sudije",
+   "capitulos": 21,
+   "paginas": 177
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Ruta",
+   "capitulos": 4,
+   "paginas": 25
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Samuelova",
+   "capitulos": 31,
+   "paginas": 237
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Samuelova",
+   "capitulos": 24,
+   "paginas": 191
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1. Kraljevima",
+   "capitulos": 22,
+   "paginas": 227
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2. Kraljevima",
+   "capitulos": 25,
+   "paginas": 214
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Dnevnika",
+   "capitulos": 29,
+   "paginas": 207
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Dnevnika",
+   "capitulos": 36,
+   "paginas": 250
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezra",
+   "capitulos": 10,
+   "paginas": 73
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemija",
+   "capitulos": 13,
+   "paginas": 101
+  },
+  {
+   "id": "Esth",
+   "nombre": "Jestira",
+   "capitulos": 10,
+   "paginas": 54
+  },
+  {
+   "id": "Job",
+   "nombre": "Jov",
+   "capitulos": 42,
+   "paginas": 180
+  },
+  {
+   "id": "Ps",
+   "nombre": "Psalmi",
+   "capitulos": 150,
+   "paginas": 447
+  },
+  {
+   "id": "Prov",
+   "nombre": "Poslovice",
+   "capitulos": 31,
+   "paginas": 150
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Propovednik",
+   "capitulos": 12,
+   "paginas": 54
+  },
+  {
+   "id": "Song",
+   "nombre": "Pesma nad pesmama",
+   "capitulos": 8,
+   "paginas": 27
+  },
+  {
+   "id": "Isa",
+   "nombre": "Isaija",
+   "capitulos": 66,
+   "paginas": 349
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremija",
+   "capitulos": 52,
+   "paginas": 390
+  },
+  {
+   "id": "Lam",
+   "nombre": "Jeremijine tužbalice",
+   "capitulos": 5,
+   "paginas": 33
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Jezekilj",
+   "capitulos": 48,
+   "paginas": 358
+  },
+  {
+   "id": "Dan",
+   "nombre": "Danilo",
+   "capitulos": 12,
+   "paginas": 107
+  },
+  {
+   "id": "Hos",
+   "nombre": "Osija",
+   "capitulos": 14,
+   "paginas": 51
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joil",
+   "capitulos": 3,
+   "paginas": 19
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amos",
+   "capitulos": 9,
+   "paginas": 40
+  },
+  {
+   "id": "Obad",
+   "nombre": "Ovadija",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jona",
+   "capitulos": 4,
+   "paginas": 13
+  },
+  {
+   "id": "Mic",
+   "nombre": "Mihej",
+   "capitulos": 7,
+   "paginas": 28
+  },
+  {
+   "id": "Nah",
+   "nombre": "Naum",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Hab",
+   "nombre": "Avakum",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofonija",
+   "capitulos": 3,
+   "paginas": 15
+  },
+  {
+   "id": "Hag",
+   "nombre": "Agej",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zaharija",
+   "capitulos": 14,
+   "paginas": 63
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malahija",
+   "capitulos": 4,
+   "paginas": 18
+  },
+  {
+   "id": "Matt",
+   "nombre": "Jevanđelje po Mateju",
+   "capitulos": 28,
+   "paginas": 223
+  },
+  {
+   "id": "Mark",
+   "nombre": "Jevanđelje po Marku",
+   "capitulos": 16,
+   "paginas": 135
+  },
+  {
+   "id": "Luke",
+   "nombre": "Jevanđelje po Luki",
+   "capitulos": 24,
+   "paginas": 233
+  },
+  {
+   "id": "John",
+   "nombre": "Jevanđelje po Jovanu",
+   "capitulos": 21,
+   "paginas": 180
+  },
+  {
+   "id": "Acts",
+   "nombre": "Dela apostolska",
+   "capitulos": 28,
+   "paginas": 233
+  },
+  {
+   "id": "Rom",
+   "nombre": "Poslanica Rimljanima",
+   "capitulos": 16,
+   "paginas": 94
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Korinćanima Poslanica",
+   "capitulos": 16,
+   "paginas": 92
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Korinćanima Poslanica",
+   "capitulos": 13,
+   "paginas": 60
+  },
+  {
+   "id": "Gal",
+   "nombre": "Poslanica Galaćanima",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "Eph",
+   "nombre": "Poslanica Efežanima",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "Phil",
+   "nombre": "Poslanica Filipljanima",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Col",
+   "nombre": "Poslanica Kološanima",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Solunjanima Poslanica",
+   "capitulos": 5,
+   "paginas": 20
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Solunjanima Poslanica",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. Timoteju Poslanica",
+   "capitulos": 6,
+   "paginas": 24
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. Timoteju Poslanica",
+   "capitulos": 4,
+   "paginas": 17
+  },
+  {
+   "id": "Titus",
+   "nombre": "Poslanica Titu",
+   "capitulos": 3,
+   "paginas": 10
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Poslanica Filemonu",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Poslanica Jevrejima",
+   "capitulos": 13,
+   "paginas": 68
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakovljeva Poslanica",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Petrova Poslanica",
+   "capitulos": 5,
+   "paginas": 24
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Petrova Poslanica",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Jovanova Poslanica",
+   "capitulos": 5,
+   "paginas": 24
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Jovanova Poslanica",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Jovanova Poslanica",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judina Poslanica",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Otkrivenje Jovanovo - Apokalipsa",
+   "capitulos": 22,
+   "paginas": 114
+  }
+ ]
+}

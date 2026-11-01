@@ -1,0 +1,178 @@
+{
+ "version": "SloStritar",
+ "licencia": "Public Domain",
+ "descripcion": "Novi testament in Psalmi Davidovi Josipa Stritarja (1882)",
+ "fuente": "http://www.dlib.si/details/URN:NBN:SI:DOC-HTM7BPQ7?=&language=eng",
+ "idioma": "sl",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Ps",
+   "nombre": "Psalmi",
+   "capitulos": 150,
+   "paginas": 503
+  },
+  {
+   "id": "Matt",
+   "nombre": "Matej",
+   "capitulos": 28,
+   "paginas": 246
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marko",
+   "capitulos": 16,
+   "paginas": 150
+  },
+  {
+   "id": "Luke",
+   "nombre": "Luka",
+   "capitulos": 24,
+   "paginas": 259
+  },
+  {
+   "id": "John",
+   "nombre": "Janez",
+   "capitulos": 21,
+   "paginas": 193
+  },
+  {
+   "id": "Acts",
+   "nombre": "Apostolska dela",
+   "capitulos": 28,
+   "paginas": 256
+  },
+  {
+   "id": "Rom",
+   "nombre": "Rimljanom",
+   "capitulos": 16,
+   "paginas": 100
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Korinčanom",
+   "capitulos": 16,
+   "paginas": 96
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Korinčanom",
+   "capitulos": 13,
+   "paginas": 64
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galačanom",
+   "capitulos": 6,
+   "paginas": 34
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efežanom",
+   "capitulos": 6,
+   "paginas": 31
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipljanom",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Col",
+   "nombre": "Kološanom",
+   "capitulos": 4,
+   "paginas": 21
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesaloničanom",
+   "capitulos": 5,
+   "paginas": 21
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesaloničanom",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timoteju",
+   "capitulos": 6,
+   "paginas": 26
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timoteju",
+   "capitulos": 4,
+   "paginas": 18
+  },
+  {
+   "id": "Titus",
+   "nombre": "Titu",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemonu",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebrejcem",
+   "capitulos": 13,
+   "paginas": 72
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakob",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Peter",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Peter",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Janez",
+   "capitulos": 5,
+   "paginas": 26
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Janez",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Janez",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Juda",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Razodetje",
+   "capitulos": 22,
+   "paginas": 121
+  }
+ ]
+}

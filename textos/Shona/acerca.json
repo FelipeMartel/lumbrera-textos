@@ -1,0 +1,172 @@
+{
+ "version": "Shona",
+ "licencia": "GFDL",
+ "descripcion": "Shona Bible",
+ "fuente": "http://bibleconsultants.nl/downloads/shona/new-testament-2013/",
+ "idioma": "sn",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 270
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 168
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 288
+  },
+  {
+   "id": "John",
+   "nombre": "Juan",
+   "capitulos": 21,
+   "paginas": 218
+  },
+  {
+   "id": "Acts",
+   "nombre": "Hechos",
+   "capitulos": 28,
+   "paginas": 277
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romanos",
+   "capitulos": 16,
+   "paginas": 112
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Corintios",
+   "capitulos": 16,
+   "paginas": 111
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Corintios",
+   "capitulos": 13,
+   "paginas": 74
+  },
+  {
+   "id": "Gal",
+   "nombre": "Gálatas",
+   "capitulos": 6,
+   "paginas": 37
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesios",
+   "capitulos": 6,
+   "paginas": 34
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipenses",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "Col",
+   "nombre": "Colosenses",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesalonicenses",
+   "capitulos": 5,
+   "paginas": 22
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesalonicenses",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timoteo",
+   "capitulos": 6,
+   "paginas": 30
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timoteo",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemón",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebreos",
+   "capitulos": 13,
+   "paginas": 82
+  },
+  {
+   "id": "Jas",
+   "nombre": "Santiago",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Pedro",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Pedro",
+   "capitulos": 3,
+   "paginas": 19
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Juan",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalipsis",
+   "capitulos": 22,
+   "paginas": 144
+  }
+ ]
+}

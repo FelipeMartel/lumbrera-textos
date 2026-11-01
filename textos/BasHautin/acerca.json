@@ -1,0 +1,172 @@
+{
+ "version": "BasHautin",
+ "licencia": "Public Domain",
+ "descripcion": "1571 Navarro-Labourdin Basque NT",
+ "fuente": "http://www.vc.ehu.es/gordailua/testamentu.htm",
+ "idioma": "eu",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 297
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 189
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 325
+  },
+  {
+   "id": "John",
+   "nombre": "Juan",
+   "capitulos": 21,
+   "paginas": 242
+  },
+  {
+   "id": "Acts",
+   "nombre": "Hechos",
+   "capitulos": 28,
+   "paginas": 313
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romanos",
+   "capitulos": 16,
+   "paginas": 123
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Corintios",
+   "capitulos": 16,
+   "paginas": 122
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Corintios",
+   "capitulos": 13,
+   "paginas": 81
+  },
+  {
+   "id": "Gal",
+   "nombre": "Gálatas",
+   "capitulos": 6,
+   "paginas": 40
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesios",
+   "capitulos": 6,
+   "paginas": 41
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipenses",
+   "capitulos": 4,
+   "paginas": 31
+  },
+  {
+   "id": "Col",
+   "nombre": "Colosenses",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesalonicenses",
+   "capitulos": 5,
+   "paginas": 26
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesalonicenses",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timoteo",
+   "capitulos": 6,
+   "paginas": 34
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timoteo",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemón",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebreos",
+   "capitulos": 13,
+   "paginas": 94
+  },
+  {
+   "id": "Jas",
+   "nombre": "Santiago",
+   "capitulos": 5,
+   "paginas": 31
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Pedro",
+   "capitulos": 5,
+   "paginas": 33
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Pedro",
+   "capitulos": 3,
+   "paginas": 22
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Juan",
+   "capitulos": 5,
+   "paginas": 32
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas",
+   "capitulos": 1,
+   "paginas": 9
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalipsis",
+   "capitulos": 22,
+   "paginas": 159
+  }
+ ]
+}

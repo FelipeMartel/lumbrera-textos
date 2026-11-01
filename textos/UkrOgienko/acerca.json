@@ -1,0 +1,406 @@
+{
+ "version": "UkrOgienko",
+ "licencia": "Public Domain",
+ "descripcion": "Українська Біблія. Переклад Івана Огієнка.",
+ "fuente": "https://uk.wikisource.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%86%D0%B2%D0%B0%D0%BD_%D0%9E%D0%B3%D1%96%D1%94%D0%BD%D0%BA%D0%BE",
+ "idioma": "uk",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Буття",
+   "capitulos": 50,
+   "paginas": 417
+  },
+  {
+   "id": "Exod",
+   "nombre": "Вихід",
+   "capitulos": 40,
+   "paginas": 344
+  },
+  {
+   "id": "Lev",
+   "nombre": "Левит",
+   "capitulos": 27,
+   "paginas": 246
+  },
+  {
+   "id": "Num",
+   "nombre": "Числа",
+   "capitulos": 36,
+   "paginas": 337
+  },
+  {
+   "id": "Deut",
+   "nombre": "Повторення Закону",
+   "capitulos": 34,
+   "paginas": 297
+  },
+  {
+   "id": "Josh",
+   "nombre": "Ісус Навин",
+   "capitulos": 24,
+   "paginas": 199
+  },
+  {
+   "id": "Judg",
+   "nombre": "Суддів",
+   "capitulos": 21,
+   "paginas": 202
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Рут",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Самуїла",
+   "capitulos": 31,
+   "paginas": 272
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Самуїла",
+   "capitulos": 24,
+   "paginas": 223
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1. Царів",
+   "capitulos": 22,
+   "paginas": 258
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2. Царів",
+   "capitulos": 25,
+   "paginas": 245
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Хроніки",
+   "capitulos": 29,
+   "paginas": 224
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Хроніки",
+   "capitulos": 36,
+   "paginas": 283
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ездри",
+   "capitulos": 10,
+   "paginas": 80
+  },
+  {
+   "id": "Neh",
+   "nombre": "Неемії",
+   "capitulos": 13,
+   "paginas": 114
+  },
+  {
+   "id": "Esth",
+   "nombre": "Eстер",
+   "capitulos": 10,
+   "paginas": 64
+  },
+  {
+   "id": "Job",
+   "nombre": "Йова",
+   "capitulos": 42,
+   "paginas": 201
+  },
+  {
+   "id": "Ps",
+   "nombre": "Псалмів",
+   "capitulos": 150,
+   "paginas": 517
+  },
+  {
+   "id": "Prov",
+   "nombre": "Приповістей",
+   "capitulos": 31,
+   "paginas": 166
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Екклезіяст",
+   "capitulos": 12,
+   "paginas": 61
+  },
+  {
+   "id": "Song",
+   "nombre": "Пісня над піснями",
+   "capitulos": 8,
+   "paginas": 35
+  },
+  {
+   "id": "Isa",
+   "nombre": "Ісаї",
+   "capitulos": 66,
+   "paginas": 403
+  },
+  {
+   "id": "Jer",
+   "nombre": "Єремії",
+   "capitulos": 52,
+   "paginas": 456
+  },
+  {
+   "id": "Lam",
+   "nombre": "Плач Єремії",
+   "capitulos": 5,
+   "paginas": 38
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Єзекіїля",
+   "capitulos": 48,
+   "paginas": 414
+  },
+  {
+   "id": "Dan",
+   "nombre": "Даниїла",
+   "capitulos": 12,
+   "paginas": 130
+  },
+  {
+   "id": "Hos",
+   "nombre": "Осії",
+   "capitulos": 14,
+   "paginas": 59
+  },
+  {
+   "id": "Joel",
+   "nombre": "Йоіла",
+   "capitulos": 4,
+   "paginas": 21
+  },
+  {
+   "id": "Amos",
+   "nombre": "Aмоса",
+   "capitulos": 9,
+   "paginas": 46
+  },
+  {
+   "id": "Obad",
+   "nombre": "Овдія",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Йони",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Mихея",
+   "capitulos": 7,
+   "paginas": 35
+  },
+  {
+   "id": "Nah",
+   "nombre": "Наума",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Авакума",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Софонії",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "Hag",
+   "nombre": "Огія",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Захарія",
+   "capitulos": 14,
+   "paginas": 70
+  },
+  {
+   "id": "Mal",
+   "nombre": "Малахії",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Matt",
+   "nombre": "Матвія",
+   "capitulos": 28,
+   "paginas": 282
+  },
+  {
+   "id": "Mark",
+   "nombre": "Марка",
+   "capitulos": 16,
+   "paginas": 165
+  },
+  {
+   "id": "Luke",
+   "nombre": "Луки",
+   "capitulos": 24,
+   "paginas": 275
+  },
+  {
+   "id": "John",
+   "nombre": "Івана",
+   "capitulos": 21,
+   "paginas": 205
+  },
+  {
+   "id": "Acts",
+   "nombre": "Дії",
+   "capitulos": 28,
+   "paginas": 265
+  },
+  {
+   "id": "Rom",
+   "nombre": "Римлян",
+   "capitulos": 16,
+   "paginas": 103
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Коринтян",
+   "capitulos": 16,
+   "paginas": 98
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Коринтян",
+   "capitulos": 13,
+   "paginas": 62
+  },
+  {
+   "id": "Gal",
+   "nombre": "Галатів",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Eph",
+   "nombre": "Ефесян",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "Phil",
+   "nombre": "Филип'ян",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Col",
+   "nombre": "Колосян",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Солунян",
+   "capitulos": 5,
+   "paginas": 22
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Солунян",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. Тимофія",
+   "capitulos": 6,
+   "paginas": 27
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. Тимофія",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Тита",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Филимона",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Heb",
+   "nombre": "Євреїв",
+   "capitulos": 13,
+   "paginas": 77
+  },
+  {
+   "id": "Jas",
+   "nombre": "Якова",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Петра",
+   "capitulos": 5,
+   "paginas": 26
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Петра",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Івана",
+   "capitulos": 5,
+   "paginas": 26
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Івана",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Івана",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Юди",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Об'явлення",
+   "capitulos": 22,
+   "paginas": 128
+  }
+ ]
+}

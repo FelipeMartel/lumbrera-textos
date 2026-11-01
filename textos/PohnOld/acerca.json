@@ -1,0 +1,178 @@
+{
+ "version": "PohnOld",
+ "licencia": "Public Domain",
+ "descripcion": "Old Public Domain Pohnpeian Bible",
+ "fuente": "",
+ "idioma": "pon",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Ps",
+   "nombre": "Salmos",
+   "capitulos": 150,
+   "paginas": 525
+  },
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 255
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 161
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 272
+  },
+  {
+   "id": "John",
+   "nombre": "Juan",
+   "capitulos": 21,
+   "paginas": 204
+  },
+  {
+   "id": "Acts",
+   "nombre": "Hechos",
+   "capitulos": 28,
+   "paginas": 257
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romanos",
+   "capitulos": 16,
+   "paginas": 105
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Corintios",
+   "capitulos": 16,
+   "paginas": 107
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Corintios",
+   "capitulos": 13,
+   "paginas": 69
+  },
+  {
+   "id": "Gal",
+   "nombre": "Gálatas",
+   "capitulos": 6,
+   "paginas": 35
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesios",
+   "capitulos": 6,
+   "paginas": 36
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipenses",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "Col",
+   "nombre": "Colosenses",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesalonicenses",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesalonicenses",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timoteo",
+   "capitulos": 6,
+   "paginas": 27
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timoteo",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemón",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebreos",
+   "capitulos": 13,
+   "paginas": 80
+  },
+  {
+   "id": "Jas",
+   "nombre": "Santiago",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Pedro",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Pedro",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Juan",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Juan",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalipsis",
+   "capitulos": 22,
+   "paginas": 125
+  }
+ ]
+}

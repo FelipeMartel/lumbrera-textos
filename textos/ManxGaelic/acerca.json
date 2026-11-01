@@ -1,0 +1,40 @@
+{
+ "version": "ManxGaelic",
+ "licencia": "Public Domain",
+ "descripcion": "Manx Gaelic Scripture Portions",
+ "fuente": "http://unbound.biola.edu/",
+ "idioma": "gv",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Esth",
+   "nombre": "Ester",
+   "capitulos": 10,
+   "paginas": 73
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jonás",
+   "capitulos": 4,
+   "paginas": 18
+  },
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 303
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 326
+  },
+  {
+   "id": "John",
+   "nombre": "Juan",
+   "capitulos": 21,
+   "paginas": 245
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "version": "BeaMRK",
+ "licencia": "Public Domain",
+ "descripcion": "The Gospel of Mark in Beaver (Danezaa)",
+ "fuente": "The Digital Bible Society from a physical copy provided by The University of Alberta",
+ "idioma": "bea",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 187
+  }
+ ]
+}

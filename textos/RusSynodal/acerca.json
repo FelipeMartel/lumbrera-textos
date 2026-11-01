@@ -1,0 +1,406 @@
+{
+ "version": "RusSynodal",
+ "licencia": "Public Domain",
+ "descripcion": "Синодального Перевода Библии",
+ "fuente": "http://www.rbo.ru/reading/articles/show/?4&start=0 or http://www.patriarchia.ru/bible/mf",
+ "idioma": "ru",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Бытие",
+   "capitulos": 50,
+   "paginas": 386
+  },
+  {
+   "id": "Exod",
+   "nombre": "Исход",
+   "capitulos": 40,
+   "paginas": 327
+  },
+  {
+   "id": "Lev",
+   "nombre": "Левит",
+   "capitulos": 27,
+   "paginas": 240
+  },
+  {
+   "id": "Num",
+   "nombre": "Числа",
+   "capitulos": 36,
+   "paginas": 323
+  },
+  {
+   "id": "Deut",
+   "nombre": "Второзаконие",
+   "capitulos": 34,
+   "paginas": 288
+  },
+  {
+   "id": "Josh",
+   "nombre": "Иисус Навин",
+   "capitulos": 24,
+   "paginas": 201
+  },
+  {
+   "id": "Judg",
+   "nombre": "Судьи",
+   "capitulos": 21,
+   "paginas": 188
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Руфь",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Царств",
+   "capitulos": 31,
+   "paginas": 259
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Царств",
+   "capitulos": 24,
+   "paginas": 217
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "3. Царств",
+   "capitulos": 22,
+   "paginas": 248
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "4. Царств",
+   "capitulos": 25,
+   "paginas": 234
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Паралипоменон",
+   "capitulos": 29,
+   "paginas": 209
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Паралипоменон",
+   "capitulos": 36,
+   "paginas": 274
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ездра",
+   "capitulos": 10,
+   "paginas": 77
+  },
+  {
+   "id": "Neh",
+   "nombre": "Неемия",
+   "capitulos": 13,
+   "paginas": 108
+  },
+  {
+   "id": "Esth",
+   "nombre": "Есфирь",
+   "capitulos": 10,
+   "paginas": 88
+  },
+  {
+   "id": "Job",
+   "nombre": "Иов",
+   "capitulos": 42,
+   "paginas": 191
+  },
+  {
+   "id": "Ps",
+   "nombre": "Псалтирь",
+   "capitulos": 151,
+   "paginas": 481
+  },
+  {
+   "id": "Prov",
+   "nombre": "Притчи",
+   "capitulos": 31,
+   "paginas": 168
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Екклесиаст",
+   "capitulos": 12,
+   "paginas": 58
+  },
+  {
+   "id": "Song",
+   "nombre": "Песня Песней",
+   "capitulos": 8,
+   "paginas": 30
+  },
+  {
+   "id": "Isa",
+   "nombre": "Исаия",
+   "capitulos": 66,
+   "paginas": 369
+  },
+  {
+   "id": "Jer",
+   "nombre": "Иеремия",
+   "capitulos": 52,
+   "paginas": 420
+  },
+  {
+   "id": "Lam",
+   "nombre": "Плач Иеремии",
+   "capitulos": 5,
+   "paginas": 34
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Иезекииль",
+   "capitulos": 48,
+   "paginas": 384
+  },
+  {
+   "id": "Dan",
+   "nombre": "Даниил",
+   "capitulos": 14,
+   "paginas": 157
+  },
+  {
+   "id": "Hos",
+   "nombre": "Осия",
+   "capitulos": 14,
+   "paginas": 53
+  },
+  {
+   "id": "Joel",
+   "nombre": "Иоиль",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Amos",
+   "nombre": "Амос",
+   "capitulos": 9,
+   "paginas": 45
+  },
+  {
+   "id": "Obad",
+   "nombre": "Авдий",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Иона",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Михей",
+   "capitulos": 7,
+   "paginas": 33
+  },
+  {
+   "id": "Nah",
+   "nombre": "Наум",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Аввакум",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Софония",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Hag",
+   "nombre": "Аггей",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "Захария",
+   "capitulos": 14,
+   "paginas": 66
+  },
+  {
+   "id": "Mal",
+   "nombre": "Малахия",
+   "capitulos": 4,
+   "paginas": 19
+  },
+  {
+   "id": "Matt",
+   "nombre": "От Матфея",
+   "capitulos": 28,
+   "paginas": 235
+  },
+  {
+   "id": "Mark",
+   "nombre": "От Марка",
+   "capitulos": 16,
+   "paginas": 144
+  },
+  {
+   "id": "Luke",
+   "nombre": "От Луки",
+   "capitulos": 24,
+   "paginas": 248
+  },
+  {
+   "id": "John",
+   "nombre": "От Иоанна",
+   "capitulos": 21,
+   "paginas": 185
+  },
+  {
+   "id": "Acts",
+   "nombre": "Деяния",
+   "capitulos": 28,
+   "paginas": 245
+  },
+  {
+   "id": "Rom",
+   "nombre": "К Римлянам",
+   "capitulos": 16,
+   "paginas": 100
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Коринфянам",
+   "capitulos": 16,
+   "paginas": 95
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Коринфянам",
+   "capitulos": 13,
+   "paginas": 64
+  },
+  {
+   "id": "Gal",
+   "nombre": "К Галатам",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Eph",
+   "nombre": "К Ефесянам",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Phil",
+   "nombre": "К Филиппийцам",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Col",
+   "nombre": "К Колоссянам",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Фессалоникийцам",
+   "capitulos": 5,
+   "paginas": 22
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Фессалоникийцам",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. Тимофею",
+   "capitulos": 6,
+   "paginas": 25
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. Тимофею",
+   "capitulos": 4,
+   "paginas": 18
+  },
+  {
+   "id": "Titus",
+   "nombre": "К Титу",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "Phlm",
+   "nombre": "К Филимону",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "К Евреям",
+   "capitulos": 13,
+   "paginas": 73
+  },
+  {
+   "id": "Jas",
+   "nombre": "Иакова",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Петра",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Петра",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Иоанна",
+   "capitulos": 5,
+   "paginas": 26
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Иоанна",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Иоанна",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "Jude",
+   "nombre": "Иуды",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Откровение",
+   "capitulos": 22,
+   "paginas": 120
+  }
+ ]
+}

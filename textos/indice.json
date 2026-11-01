@@ -16,5 +16,374 @@
   "idioma": "es",
   "direccion": "LtoR",
   "libros": 66
+ },
+ {
+  "version": "BeaMRK",
+  "licencia": "Public Domain",
+  "descripcion": "The Gospel of Mark in Beaver (Danezaa)",
+  "fuente": "The Digital Bible Society from a physical copy provided by The University of Alberta",
+  "idioma": "bea",
+  "direccion": "LtoR",
+  "libros": 1
+ },
+ {
+  "version": "CebPinadayag",
+  "licencia": "Public Domain",
+  "descripcion": "Cebuano Pinadayag",
+  "fuente": "http://www.zefania.de/",
+  "idioma": "ceb",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "CzeBKR",
+  "licencia": "Public Domain",
+  "descripcion": "Czech Bible Kralicka",
+  "fuente": "https://cs.wikisource.org/wiki/Bible_kralická/",
+  "idioma": "cs",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "DaOT1871NT1907",
+  "licencia": "Public Domain",
+  "descripcion": "Danish OT1871 + NT1907 with original orthography",
+  "fuente": "https://github.com/emg/",
+  "idioma": "da",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "GerMenge",
+  "licencia": "Public Domain",
+  "descripcion": "Menge-Bibel (1939)",
+  "fuente": "https://github.com/renehamburger/Menge-Bibel",
+  "idioma": "de",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "GreVamvas",
+  "licencia": "Public Domain",
+  "descripcion": "Neophytos Vamvas's translation of the Holy Bible into modern Greek (1850)",
+  "fuente": "www.theword.gr",
+  "idioma": "el",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Wycliffe",
+  "licencia": "Creative Commons: BY-SA 4.0",
+  "descripcion": "John Wycliffe Bible (c.1395)",
+  "fuente": "https://en.wikisource.org/wiki/Bible_(Wycliffe)",
+  "idioma": "enm",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Esperanto",
+  "licencia": "Public Domain",
+  "descripcion": "Esperanto Londona Biblio",
+  "fuente": "https://archive.org/details/TheHolyBibleInEsperanto https://www.sacred-texts.com/bib/wb/esp/index.htm",
+  "idioma": "eo",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "BasHautin",
+  "licencia": "Public Domain",
+  "descripcion": "1571 Navarro-Labourdin Basque NT",
+  "fuente": "http://www.vc.ehu.es/gordailua/testamentu.htm",
+  "idioma": "eu",
+  "direccion": "LtoR",
+  "libros": 27
+ },
+ {
+  "version": "FinBiblia",
+  "licencia": "Public Domain",
+  "descripcion": "Finnish Biblia (1776)",
+  "fuente": "https://www.finbible.fi/head/bibl.htm",
+  "idioma": "fi",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "FreCrampon",
+  "licencia": "Public Domain",
+  "descripcion": "La Bible Augustin Crampon 1923",
+  "fuente": "https://fr.wikisource.org/wiki/Bible_Crampon_1923",
+  "idioma": "fr",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "ScotsGaelic",
+  "licencia": "Public Domain",
+  "descripcion": "Scottish Gaelic Gospel of Mark",
+  "fuente": "http://dialspace.dial.pipex.com/town/avenue/pa44/mkg1.htm",
+  "idioma": "gd",
+  "direccion": "LtoR",
+  "libros": 1
+ },
+ {
+  "version": "SRKoine",
+  "licencia": "Creative Commons: BY 4.0",
+  "descripcion": "Statistical Restoration Greek New Testament with Koine Spelling and Apparatus",
+  "fuente": "https://github.com/Center-for-New-Testament-Restoration/SR",
+  "idioma": "grc",
+  "direccion": "LtoR",
+  "libros": 27
+ },
+ {
+  "version": "ManxGaelic",
+  "licencia": "Public Domain",
+  "descripcion": "Manx Gaelic Scripture Portions",
+  "fuente": "http://unbound.biola.edu/",
+  "idioma": "gv",
+  "direccion": "LtoR",
+  "libros": 5
+ },
+ {
+  "version": "CroSaric",
+  "licencia": "Public Domain",
+  "descripcion": "Hrvatska Biblija Ivana Šarića",
+  "fuente": "http://unbound.biola.edu/ and http://wwwyu.com/izrada/",
+  "idioma": "hr",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Haitian",
+  "licencia": "Public Domain",
+  "descripcion": "Haitian Creole Bible",
+  "fuente": "",
+  "idioma": "ht",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "HunKar",
+  "licencia": "Public Domain",
+  "descripcion": "Revideált Károli Biblia 1908",
+  "fuente": "https://github.com/krisek/HunKar",
+  "idioma": "hu",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "ItaDio",
+  "licencia": "Public Domain",
+  "descripcion": "Italian Giovanni Diodati Bibbia 1649",
+  "fuente": "http://unbound.biola.edu/",
+  "idioma": "it",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Vulgate",
+  "licencia": "Public Domain",
+  "descripcion": "Latin Vulgate",
+  "fuente": "https://www.ccel.org/ccel/b/bible/vul/cache/vul.txt",
+  "idioma": "la",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "LvGluck8",
+  "licencia": "Public Domain",
+  "descripcion": "Latvian Glück 8th edition",
+  "fuente": "Digitalizēts Glika Bībeles 7. izdevums.",
+  "idioma": "lv",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Mg1865",
+  "licencia": "Public Domain",
+  "descripcion": "Baiboly Malagasy (1865)",
+  "fuente": "https://nybaiboly.net/BibleFrancoMalgache.htm",
+  "idioma": "mg",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Norsk",
+  "licencia": "Public Domain",
+  "descripcion": "Bibelen på Norsk (1930)",
+  "fuente": "http://unbound.biola.edu/",
+  "idioma": "nb",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Ndebele",
+  "licencia": "GFDL",
+  "descripcion": "Ndebele Bible",
+  "fuente": "https://bibledit.org:2001/exports//NdebeleTeam/usfm/full",
+  "idioma": "nd",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "DutSVVA",
+  "licencia": "Public Domain",
+  "descripcion": "De ganse Heilige Schrift bevattende al de kanonieke boeken van het Oude en Nieuwe Testament, met de apocriefe (deuterocanonieke) boeken",
+  "fuente": "https://github.com/Isidore-Guild/statenvertaling",
+  "idioma": "nl",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "NorSMB",
+  "licencia": "Public Domain",
+  "descripcion": "Studentmållagsbibelen frå 1921",
+  "fuente": "http://gamal.nynorsk.no/mu/smio/bibelen/",
+  "idioma": "nn",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "PolGdanska",
+  "licencia": "Public Domain",
+  "descripcion": "Polish Biblia Gdanska (1881)",
+  "fuente": "http://www.biblia.elblag.net/",
+  "idioma": "pl",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "PohnOld",
+  "licencia": "Public Domain",
+  "descripcion": "Old Public Domain Pohnpeian Bible",
+  "fuente": "",
+  "idioma": "pon",
+  "direccion": "LtoR",
+  "libros": 28
+ },
+ {
+  "version": "PotLykins",
+  "licencia": "Public Domain",
+  "descripcion": "1833 Potawatomi Matthew and Acts",
+  "fuente": "http://unbound.bible.edu/",
+  "idioma": "pot",
+  "direccion": "LtoR",
+  "libros": 2
+ },
+ {
+  "version": "PorNVA",
+  "licencia": "Creative Commons: BY-SA 4.0",
+  "descripcion": "Bíblia Nova Versão de Acesso Livre",
+  "fuente": "https://cdn.bibletranslationtools.org//bible/pt-br/ulb/source.zip",
+  "idioma": "pt",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Calo",
+  "licencia": "Public Domain",
+  "descripcion": "El Evangelio segun S. Lucas, traducido al Romaní, ó dialecto de los Gitanos de España",
+  "fuente": "Project Gutenberg",
+  "idioma": "rmq",
+  "direccion": "LtoR",
+  "libros": 1
+ },
+ {
+  "version": "RusSynodal",
+  "licencia": "Public Domain",
+  "descripcion": "Синодального Перевода Библии",
+  "fuente": "http://www.rbo.ru/reading/articles/show/?4&start=0 or http://www.patriarchia.ru/bible/mf",
+  "idioma": "ru",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "SloStritar",
+  "licencia": "Public Domain",
+  "descripcion": "Novi testament in Psalmi Davidovi Josipa Stritarja (1882)",
+  "fuente": "http://www.dlib.si/details/URN:NBN:SI:DOC-HTM7BPQ7?=&language=eng",
+  "idioma": "sl",
+  "direccion": "LtoR",
+  "libros": 28
+ },
+ {
+  "version": "Shona",
+  "licencia": "GFDL",
+  "descripcion": "Shona Bible",
+  "fuente": "http://bibleconsultants.nl/downloads/shona/new-testament-2013/",
+  "idioma": "sn",
+  "direccion": "LtoR",
+  "libros": 27
+ },
+ {
+  "version": "Alb",
+  "licencia": "Public Domain",
+  "descripcion": "Albanian Bible",
+  "fuente": "http://unbound.biola.edu/ & https://www.biblegateway.com/versions/Albanian-Bible-ALB/#booklist",
+  "idioma": "sq",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "SrKDEkavski",
+  "licencia": "Public Domain",
+  "descripcion": "Serbian Bible Daničić-Karadžić Ekavski",
+  "fuente": "",
+  "idioma": "sr",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Swe1917",
+  "licencia": "Public Domain",
+  "descripcion": "Swedish Bible (1917)",
+  "fuente": "http://runeberg.org/download.pl?mode=work&work=bibeln/efs1927",
+  "idioma": "sv",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Swahili",
+  "licencia": "Public Domain",
+  "descripcion": "Swahili New Testament",
+  "fuente": "",
+  "idioma": "sw",
+  "direccion": "LtoR",
+  "libros": 26
+ },
+ {
+  "version": "TagAngBiblia",
+  "licencia": "Public Domain",
+  "descripcion": "Philippine Bible Society (1905)",
+  "fuente": "Typed from the Ang Biblia Tagalog by Richard & Dolores Long.",
+  "idioma": "tl",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "UkrOgienko",
+  "licencia": "Public Domain",
+  "descripcion": "Українська Біблія. Переклад Івана Огієнка.",
+  "fuente": "https://uk.wikisource.org/wiki/%D0%90%D0%B2%D1%82%D0%BE%D1%80:%D0%86%D0%B2%D0%B0%D0%BD_%D0%9E%D0%B3%D1%96%D1%94%D0%BD%D0%BA%D0%BE",
+  "idioma": "uk",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "Viet",
+  "licencia": "Public Domain",
+  "descripcion": "Kinh Thánh Tiếng Việt (1934)",
+  "fuente": "http://unbound.biola.edu/",
+  "idioma": "vi",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "vlsJoNT",
+  "licencia": "Public Domain",
+  "descripcion": "Het Nieuwe Testament by Nicolaas De Jonge",
+  "fuente": "",
+  "idioma": "vls",
+  "direccion": "LtoR",
+  "libros": 27
  }
 ]

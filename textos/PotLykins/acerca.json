@@ -1,0 +1,22 @@
+{
+ "version": "PotLykins",
+ "licencia": "Public Domain",
+ "descripcion": "1833 Potawatomi Matthew and Acts",
+ "fuente": "http://unbound.bible.edu/",
+ "idioma": "pot",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 305
+  },
+  {
+   "id": "Acts",
+   "nombre": "Hechos",
+   "capitulos": 28,
+   "paginas": 308
+  }
+ ]
+}

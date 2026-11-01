@@ -1,0 +1,406 @@
+{
+ "version": "NorSMB",
+ "licencia": "Public Domain",
+ "descripcion": "Studentmållagsbibelen frå 1921",
+ "fuente": "http://gamal.nynorsk.no/mu/smio/bibelen/",
+ "idioma": "nn",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Fyrste Mosebok",
+   "capitulos": 50,
+   "paginas": 430
+  },
+  {
+   "id": "Exod",
+   "nombre": "Andre Mosebok",
+   "capitulos": 40,
+   "paginas": 356
+  },
+  {
+   "id": "Lev",
+   "nombre": "Tredje Mosebok",
+   "capitulos": 27,
+   "paginas": 262
+  },
+  {
+   "id": "Num",
+   "nombre": "Fjerde Mosebok",
+   "capitulos": 36,
+   "paginas": 348
+  },
+  {
+   "id": "Deut",
+   "nombre": "Femte Mosebok",
+   "capitulos": 34,
+   "paginas": 298
+  },
+  {
+   "id": "Josh",
+   "nombre": "Josva",
+   "capitulos": 24,
+   "paginas": 204
+  },
+  {
+   "id": "Judg",
+   "nombre": "Domarane",
+   "capitulos": 21,
+   "paginas": 203
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Rut",
+   "capitulos": 4,
+   "paginas": 31
+  },
+  {
+   "id": "1Sam",
+   "nombre": "Fyrste Samuelsbok",
+   "capitulos": 31,
+   "paginas": 269
+  },
+  {
+   "id": "2Sam",
+   "nombre": "Andre Samuelsbok",
+   "capitulos": 24,
+   "paginas": 219
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "Fyrste Kongebok",
+   "capitulos": 22,
+   "paginas": 269
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "Andre Kongebok",
+   "capitulos": 25,
+   "paginas": 246
+  },
+  {
+   "id": "1Chr",
+   "nombre": "Fyrste Krønikebok",
+   "capitulos": 29,
+   "paginas": 238
+  },
+  {
+   "id": "2Chr",
+   "nombre": "Andre Krønikebok",
+   "capitulos": 36,
+   "paginas": 294
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Esra",
+   "capitulos": 10,
+   "paginas": 86
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemja",
+   "capitulos": 13,
+   "paginas": 118
+  },
+  {
+   "id": "Esth",
+   "nombre": "Ester",
+   "capitulos": 10,
+   "paginas": 64
+  },
+  {
+   "id": "Job",
+   "nombre": "Job",
+   "capitulos": 42,
+   "paginas": 182
+  },
+  {
+   "id": "Ps",
+   "nombre": "Salmane",
+   "capitulos": 150,
+   "paginas": 513
+  },
+  {
+   "id": "Prov",
+   "nombre": "Salomos ordtøke",
+   "capitulos": 31,
+   "paginas": 164
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Forkynnaren",
+   "capitulos": 12,
+   "paginas": 62
+  },
+  {
+   "id": "Song",
+   "nombre": "Høgsongen",
+   "capitulos": 8,
+   "paginas": 28
+  },
+  {
+   "id": "Isa",
+   "nombre": "Jesaja",
+   "capitulos": 66,
+   "paginas": 393
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremia",
+   "capitulos": 52,
+   "paginas": 470
+  },
+  {
+   "id": "Lam",
+   "nombre": "Klagesongane",
+   "capitulos": 5,
+   "paginas": 37
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Esekiel",
+   "capitulos": 48,
+   "paginas": 427
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniel",
+   "capitulos": 12,
+   "paginas": 137
+  },
+  {
+   "id": "Hos",
+   "nombre": "Hosea",
+   "capitulos": 14,
+   "paginas": 62
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joel",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amos",
+   "capitulos": 9,
+   "paginas": 43
+  },
+  {
+   "id": "Obad",
+   "nombre": "Obadja",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jona",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Mika",
+   "capitulos": 7,
+   "paginas": 35
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahum",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habakkuk",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sefanja",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hag",
+   "nombre": "Haggai",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "Sakarja",
+   "capitulos": 14,
+   "paginas": 76
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malaki",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Matt",
+   "nombre": "Matteus",
+   "capitulos": 28,
+   "paginas": 267
+  },
+  {
+   "id": "Mark",
+   "nombre": "Markus",
+   "capitulos": 16,
+   "paginas": 170
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lukas",
+   "capitulos": 24,
+   "paginas": 286
+  },
+  {
+   "id": "John",
+   "nombre": "Johannes",
+   "capitulos": 21,
+   "paginas": 220
+  },
+  {
+   "id": "Acts",
+   "nombre": "Apostelgjerningane",
+   "capitulos": 28,
+   "paginas": 279
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romarane",
+   "capitulos": 16,
+   "paginas": 109
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Korintarane",
+   "capitulos": 16,
+   "paginas": 108
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Korintarane",
+   "capitulos": 13,
+   "paginas": 72
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galatarane",
+   "capitulos": 6,
+   "paginas": 38
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesarane",
+   "capitulos": 6,
+   "paginas": 36
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipparane",
+   "capitulos": 4,
+   "paginas": 26
+  },
+  {
+   "id": "Col",
+   "nombre": "Kolossarane",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Tessalonikarane",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Tessalonikarane",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. Timoteus",
+   "capitulos": 6,
+   "paginas": 28
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. Timoteus",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Titus",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemon",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebrearane",
+   "capitulos": 13,
+   "paginas": 82
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakob",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Peter",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Peter",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Johannes",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Johannes",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Johannes",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Johannes openberring",
+   "capitulos": 22,
+   "paginas": 135
+  }
+ ]
+}

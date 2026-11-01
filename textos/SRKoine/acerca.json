@@ -1,0 +1,172 @@
+{
+ "version": "SRKoine",
+ "licencia": "Creative Commons: BY 4.0",
+ "descripcion": "Statistical Restoration Greek New Testament with Koine Spelling and Apparatus",
+ "fuente": "https://github.com/Center-for-New-Testament-Restoration/SR",
+ "idioma": "grc",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Matt",
+   "nombre": "Mateo",
+   "capitulos": 28,
+   "paginas": 995
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 962
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 1422
+  },
+  {
+   "id": "John",
+   "nombre": "Juan",
+   "capitulos": 21,
+   "paginas": 1066
+  },
+  {
+   "id": "Acts",
+   "nombre": "Hechos",
+   "capitulos": 28,
+   "paginas": 1172
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romanos",
+   "capitulos": 16,
+   "paginas": 275
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Corintios",
+   "capitulos": 16,
+   "paginas": 310
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Corintios",
+   "capitulos": 13,
+   "paginas": 189
+  },
+  {
+   "id": "Gal",
+   "nombre": "Gálatas",
+   "capitulos": 6,
+   "paginas": 96
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesios",
+   "capitulos": 6,
+   "paginas": 101
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipenses",
+   "capitulos": 4,
+   "paginas": 65
+  },
+  {
+   "id": "Col",
+   "nombre": "Colosenses",
+   "capitulos": 4,
+   "paginas": 71
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesalonicenses",
+   "capitulos": 5,
+   "paginas": 58
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesalonicenses",
+   "capitulos": 3,
+   "paginas": 29
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timoteo",
+   "capitulos": 6,
+   "paginas": 59
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timoteo",
+   "capitulos": 4,
+   "paginas": 46
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 26
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemón",
+   "capitulos": 1,
+   "paginas": 11
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebreos",
+   "capitulos": 13,
+   "paginas": 237
+  },
+  {
+   "id": "Jas",
+   "nombre": "Santiago",
+   "capitulos": 5,
+   "paginas": 84
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Pedro",
+   "capitulos": 5,
+   "paginas": 101
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Pedro",
+   "capitulos": 3,
+   "paginas": 61
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Juan",
+   "capitulos": 5,
+   "paginas": 84
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Juan",
+   "capitulos": 1,
+   "paginas": 11
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Juan",
+   "capitulos": 1,
+   "paginas": 11
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judas",
+   "capitulos": 1,
+   "paginas": 35
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalipsis",
+   "capitulos": 22,
+   "paginas": 532
+  }
+ ]
+}

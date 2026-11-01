@@ -1,0 +1,406 @@
+{
+ "version": "PolGdanska",
+ "licencia": "Public Domain",
+ "descripcion": "Polish Biblia Gdanska (1881)",
+ "fuente": "http://www.biblia.elblag.net/",
+ "idioma": "pl",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Rodzaju",
+   "capitulos": 50,
+   "paginas": 413
+  },
+  {
+   "id": "Exod",
+   "nombre": "Wyjścia",
+   "capitulos": 40,
+   "paginas": 339
+  },
+  {
+   "id": "Lev",
+   "nombre": "Kapłańska",
+   "capitulos": 27,
+   "paginas": 256
+  },
+  {
+   "id": "Num",
+   "nombre": "Liczb",
+   "capitulos": 36,
+   "paginas": 353
+  },
+  {
+   "id": "Deut",
+   "nombre": "Powtórzonego Prawa",
+   "capitulos": 34,
+   "paginas": 306
+  },
+  {
+   "id": "Josh",
+   "nombre": "Jozuego",
+   "capitulos": 24,
+   "paginas": 203
+  },
+  {
+   "id": "Judg",
+   "nombre": "Sędziów",
+   "capitulos": 21,
+   "paginas": 201
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Rut",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1 Samuela",
+   "capitulos": 31,
+   "paginas": 279
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2 Samuela",
+   "capitulos": 24,
+   "paginas": 230
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1 Królewska",
+   "capitulos": 22,
+   "paginas": 273
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2 Królewska",
+   "capitulos": 25,
+   "paginas": 253
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1 Kronik",
+   "capitulos": 29,
+   "paginas": 238
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2 Kronik",
+   "capitulos": 36,
+   "paginas": 301
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezdrasza",
+   "capitulos": 10,
+   "paginas": 84
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemiasza",
+   "capitulos": 13,
+   "paginas": 121
+  },
+  {
+   "id": "Esth",
+   "nombre": "Estery",
+   "capitulos": 10,
+   "paginas": 67
+  },
+  {
+   "id": "Job",
+   "nombre": "Hioba",
+   "capitulos": 42,
+   "paginas": 206
+  },
+  {
+   "id": "Ps",
+   "nombre": "Psalmów",
+   "capitulos": 150,
+   "paginas": 536
+  },
+  {
+   "id": "Prov",
+   "nombre": "Przysłów",
+   "capitulos": 31,
+   "paginas": 170
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Koheleta",
+   "capitulos": 12,
+   "paginas": 65
+  },
+  {
+   "id": "Song",
+   "nombre": "Pieśni nad pieśniami",
+   "capitulos": 8,
+   "paginas": 32
+  },
+  {
+   "id": "Isa",
+   "nombre": "Izajasza",
+   "capitulos": 66,
+   "paginas": 408
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremiasza",
+   "capitulos": 52,
+   "paginas": 470
+  },
+  {
+   "id": "Lam",
+   "nombre": "Lamentacje",
+   "capitulos": 5,
+   "paginas": 40
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ezechiela",
+   "capitulos": 48,
+   "paginas": 425
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniela",
+   "capitulos": 12,
+   "paginas": 134
+  },
+  {
+   "id": "Hos",
+   "nombre": "Ozeasza",
+   "capitulos": 14,
+   "paginas": 60
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joela",
+   "capitulos": 3,
+   "paginas": 21
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amosa",
+   "capitulos": 9,
+   "paginas": 46
+  },
+  {
+   "id": "Obad",
+   "nombre": "Abdiasza",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jonasza",
+   "capitulos": 4,
+   "paginas": 15
+  },
+  {
+   "id": "Mic",
+   "nombre": "Micheasza",
+   "capitulos": 7,
+   "paginas": 35
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahuma",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habakuka",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofoniasza",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "Hag",
+   "nombre": "Aggeusza",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zachariasza",
+   "capitulos": 14,
+   "paginas": 71
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malachiasza",
+   "capitulos": 4,
+   "paginas": 21
+  },
+  {
+   "id": "Matt",
+   "nombre": "Mateusza",
+   "capitulos": 28,
+   "paginas": 259
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marka",
+   "capitulos": 16,
+   "paginas": 162
+  },
+  {
+   "id": "Luke",
+   "nombre": "Łukasza",
+   "capitulos": 24,
+   "paginas": 277
+  },
+  {
+   "id": "John",
+   "nombre": "Jana",
+   "capitulos": 21,
+   "paginas": 205
+  },
+  {
+   "id": "Acts",
+   "nombre": "Dzieje",
+   "capitulos": 28,
+   "paginas": 271
+  },
+  {
+   "id": "Rom",
+   "nombre": "Rzymian",
+   "capitulos": 16,
+   "paginas": 110
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Koryntian",
+   "capitulos": 16,
+   "paginas": 107
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Koryntian",
+   "capitulos": 13,
+   "paginas": 75
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galatów",
+   "capitulos": 6,
+   "paginas": 35
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efezjan",
+   "capitulos": 6,
+   "paginas": 37
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipian",
+   "capitulos": 4,
+   "paginas": 26
+  },
+  {
+   "id": "Col",
+   "nombre": "Kolosan",
+   "capitulos": 4,
+   "paginas": 26
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesaloniczan",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesaloniczan",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Tymoteusza",
+   "capitulos": 6,
+   "paginas": 30
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Tymoteusza",
+   "capitulos": 4,
+   "paginas": 21
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tytusa",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemona",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hebrajczyków",
+   "capitulos": 13,
+   "paginas": 82
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakuba",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Piotra",
+   "capitulos": 5,
+   "paginas": 31
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Piotra",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Jana",
+   "capitulos": 5,
+   "paginas": 28
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Jana",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Jana",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Judy",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apokalipsa",
+   "capitulos": 22,
+   "paginas": 132
+  }
+ ]
+}

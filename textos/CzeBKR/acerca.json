@@ -1,0 +1,406 @@
+{
+ "version": "CzeBKR",
+ "licencia": "Public Domain",
+ "descripcion": "Czech Bible Kralicka",
+ "fuente": "https://cs.wikisource.org/wiki/Bible_kralická/",
+ "idioma": "cs",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Genesis",
+   "capitulos": 50,
+   "paginas": 389
+  },
+  {
+   "id": "Exod",
+   "nombre": "Exodus",
+   "capitulos": 40,
+   "paginas": 324
+  },
+  {
+   "id": "Lev",
+   "nombre": "Leviticus",
+   "capitulos": 27,
+   "paginas": 240
+  },
+  {
+   "id": "Num",
+   "nombre": "Numeri",
+   "capitulos": 36,
+   "paginas": 329
+  },
+  {
+   "id": "Deut",
+   "nombre": "Deuteronomium",
+   "capitulos": 34,
+   "paginas": 285
+  },
+  {
+   "id": "Josh",
+   "nombre": "Jozue",
+   "capitulos": 24,
+   "paginas": 197
+  },
+  {
+   "id": "Judg",
+   "nombre": "Soudců",
+   "capitulos": 21,
+   "paginas": 191
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Rut",
+   "capitulos": 4,
+   "paginas": 27
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Samuelova",
+   "capitulos": 31,
+   "paginas": 261
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Samuelova",
+   "capitulos": 24,
+   "paginas": 214
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1. Královská",
+   "capitulos": 22,
+   "paginas": 252
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2. Královská",
+   "capitulos": 25,
+   "paginas": 236
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Paralipomenon",
+   "capitulos": 29,
+   "paginas": 220
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Paralipomenon",
+   "capitulos": 36,
+   "paginas": 283
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezdráš",
+   "capitulos": 10,
+   "paginas": 80
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemiáš",
+   "capitulos": 13,
+   "paginas": 111
+  },
+  {
+   "id": "Esth",
+   "nombre": "Ester",
+   "capitulos": 10,
+   "paginas": 62
+  },
+  {
+   "id": "Job",
+   "nombre": "Job",
+   "capitulos": 42,
+   "paginas": 199
+  },
+  {
+   "id": "Ps",
+   "nombre": "Žalmy",
+   "capitulos": 150,
+   "paginas": 517
+  },
+  {
+   "id": "Prov",
+   "nombre": "Přísloví",
+   "capitulos": 31,
+   "paginas": 162
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Kazatel",
+   "capitulos": 12,
+   "paginas": 61
+  },
+  {
+   "id": "Song",
+   "nombre": "Píseň Šalomounova",
+   "capitulos": 8,
+   "paginas": 29
+  },
+  {
+   "id": "Isa",
+   "nombre": "Izaiáš",
+   "capitulos": 66,
+   "paginas": 386
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremiáš",
+   "capitulos": 52,
+   "paginas": 449
+  },
+  {
+   "id": "Lam",
+   "nombre": "Pláč Jeremiášův",
+   "capitulos": 5,
+   "paginas": 35
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ezechiel",
+   "capitulos": 48,
+   "paginas": 396
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniel",
+   "capitulos": 12,
+   "paginas": 124
+  },
+  {
+   "id": "Hos",
+   "nombre": "Ozeáš",
+   "capitulos": 14,
+   "paginas": 57
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joel",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amos",
+   "capitulos": 9,
+   "paginas": 44
+  },
+  {
+   "id": "Obad",
+   "nombre": "Abdiáš",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jonáš",
+   "capitulos": 4,
+   "paginas": 14
+  },
+  {
+   "id": "Mic",
+   "nombre": "Micheáš",
+   "capitulos": 7,
+   "paginas": 33
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahum",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Abakuk",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofoniáš",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hag",
+   "nombre": "Aggeus",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zachariáš",
+   "capitulos": 14,
+   "paginas": 70
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malachiáš",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Matt",
+   "nombre": "Matouš",
+   "capitulos": 28,
+   "paginas": 235
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marek",
+   "capitulos": 16,
+   "paginas": 145
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lukáš",
+   "capitulos": 24,
+   "paginas": 254
+  },
+  {
+   "id": "John",
+   "nombre": "Jan",
+   "capitulos": 21,
+   "paginas": 188
+  },
+  {
+   "id": "Acts",
+   "nombre": "Skutky",
+   "capitulos": 28,
+   "paginas": 252
+  },
+  {
+   "id": "Rom",
+   "nombre": "Římanům",
+   "capitulos": 16,
+   "paginas": 102
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Korintským",
+   "capitulos": 16,
+   "paginas": 96
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Korintským",
+   "capitulos": 13,
+   "paginas": 66
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galatským",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efezským",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipenským",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "Col",
+   "nombre": "Kolossenským",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Tessalonicenským",
+   "capitulos": 5,
+   "paginas": 21
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Tessalonicenským",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. Timoteovi",
+   "capitulos": 6,
+   "paginas": 26
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. Timoteovi",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Titovi",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemonovi",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Židům",
+   "capitulos": 13,
+   "paginas": 76
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jakub",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Petrova",
+   "capitulos": 5,
+   "paginas": 28
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Petrova",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Janova",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Janova",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Janova",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "Jude",
+   "nombre": "Juda",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Zjevení",
+   "capitulos": 22,
+   "paginas": 122
+  }
+ ]
+}

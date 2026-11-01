@@ -1,0 +1,166 @@
+{
+ "version": "Swahili",
+ "licencia": "Public Domain",
+ "descripcion": "Swahili New Testament",
+ "fuente": "",
+ "idioma": "sw",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Matt",
+   "nombre": "Mathayo",
+   "capitulos": 28,
+   "paginas": 271
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marko",
+   "capitulos": 16,
+   "paginas": 169
+  },
+  {
+   "id": "Luke",
+   "nombre": "Luka",
+   "capitulos": 24,
+   "paginas": 293
+  },
+  {
+   "id": "John",
+   "nombre": "Yohane",
+   "capitulos": 21,
+   "paginas": 217
+  },
+  {
+   "id": "Acts",
+   "nombre": "Matendo",
+   "capitulos": 28,
+   "paginas": 301
+  },
+  {
+   "id": "Rom",
+   "nombre": "Waroma",
+   "capitulos": 16,
+   "paginas": 131
+  },
+  {
+   "id": "1Cor",
+   "nombre": "Wakorintho 1",
+   "capitulos": 16,
+   "paginas": 123
+  },
+  {
+   "id": "2Cor",
+   "nombre": "Wakorintho 2",
+   "capitulos": 13,
+   "paginas": 81
+  },
+  {
+   "id": "Gal",
+   "nombre": "Wagalatia",
+   "capitulos": 6,
+   "paginas": 44
+  },
+  {
+   "id": "Eph",
+   "nombre": "Waefeso",
+   "capitulos": 6,
+   "paginas": 41
+  },
+  {
+   "id": "Col",
+   "nombre": "Wakolosai",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Thess",
+   "nombre": "Wathesalonike 1",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "2Thess",
+   "nombre": "Wathesalonike 2",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "1Tim",
+   "nombre": "Timotheo 1",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "2Tim",
+   "nombre": "Timotheo 2",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemoni",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Heb",
+   "nombre": "Waebrania",
+   "capitulos": 13,
+   "paginas": 94
+  },
+  {
+   "id": "Jas",
+   "nombre": "Yakobo",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "1Pet",
+   "nombre": "Petro 1",
+   "capitulos": 5,
+   "paginas": 32
+  },
+  {
+   "id": "2Pet",
+   "nombre": "Petro 2",
+   "capitulos": 3,
+   "paginas": 22
+  },
+  {
+   "id": "1John",
+   "nombre": "Yohane 1",
+   "capitulos": 5,
+   "paginas": 33
+  },
+  {
+   "id": "2John",
+   "nombre": "Yohane",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "Yohane",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Yuda",
+   "capitulos": 1,
+   "paginas": 9
+  },
+  {
+   "id": "Rev",
+   "nombre": "Ufunuo",
+   "capitulos": 22,
+   "paginas": 148
+  }
+ ]
+}

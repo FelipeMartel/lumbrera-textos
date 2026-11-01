@@ -1,0 +1,16 @@
+{
+ "version": "ScotsGaelic",
+ "licencia": "Public Domain",
+ "descripcion": "Scottish Gaelic Gospel of Mark",
+ "fuente": "http://dialspace.dial.pipex.com/town/avenue/pa44/mkg1.htm",
+ "idioma": "gd",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Mark",
+   "nombre": "Marcos",
+   "capitulos": 16,
+   "paginas": 191
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "version": "ItaDio",
+ "licencia": "Public Domain",
+ "descripcion": "Italian Giovanni Diodati Bibbia 1649",
+ "fuente": "http://unbound.biola.edu/",
+ "idioma": "it",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Genesi",
+   "capitulos": 50,
+   "paginas": 477
+  },
+  {
+   "id": "Exod",
+   "nombre": "Esodo",
+   "capitulos": 40,
+   "paginas": 398
+  },
+  {
+   "id": "Lev",
+   "nombre": "Levitico",
+   "capitulos": 27,
+   "paginas": 300
+  },
+  {
+   "id": "Num",
+   "nombre": "Numeri",
+   "capitulos": 36,
+   "paginas": 401
+  },
+  {
+   "id": "Deut",
+   "nombre": "Deuteronomio",
+   "capitulos": 34,
+   "paginas": 342
+  },
+  {
+   "id": "Josh",
+   "nombre": "Giosuè",
+   "capitulos": 24,
+   "paginas": 238
+  },
+  {
+   "id": "Judg",
+   "nombre": "Giudici",
+   "capitulos": 21,
+   "paginas": 235
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Ruth",
+   "capitulos": 4,
+   "paginas": 34
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1. Samuele",
+   "capitulos": 31,
+   "paginas": 314
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2. Samuele",
+   "capitulos": 24,
+   "paginas": 253
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1. Re",
+   "capitulos": 22,
+   "paginas": 300
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2. Re",
+   "capitulos": 25,
+   "paginas": 291
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1. Cronache",
+   "capitulos": 29,
+   "paginas": 269
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2. Cronache",
+   "capitulos": 36,
+   "paginas": 339
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Esdra",
+   "capitulos": 10,
+   "paginas": 96
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemia",
+   "capitulos": 13,
+   "paginas": 139
+  },
+  {
+   "id": "Esth",
+   "nombre": "Ester",
+   "capitulos": 10,
+   "paginas": 73
+  },
+  {
+   "id": "Job",
+   "nombre": "Giobbe",
+   "capitulos": 42,
+   "paginas": 240
+  },
+  {
+   "id": "Ps",
+   "nombre": "Salmi",
+   "capitulos": 150,
+   "paginas": 588
+  },
+  {
+   "id": "Prov",
+   "nombre": "Proverbi",
+   "capitulos": 31,
+   "paginas": 192
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Ecclesiaste",
+   "capitulos": 12,
+   "paginas": 74
+  },
+  {
+   "id": "Song",
+   "nombre": "Cantico dei Cantici",
+   "capitulos": 8,
+   "paginas": 36
+  },
+  {
+   "id": "Isa",
+   "nombre": "Isaia",
+   "capitulos": 66,
+   "paginas": 481
+  },
+  {
+   "id": "Jer",
+   "nombre": "Geremia",
+   "capitulos": 52,
+   "paginas": 540
+  },
+  {
+   "id": "Lam",
+   "nombre": "Lamentazioni",
+   "capitulos": 5,
+   "paginas": 45
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ezechiele",
+   "capitulos": 48,
+   "paginas": 494
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniele",
+   "capitulos": 12,
+   "paginas": 146
+  },
+  {
+   "id": "Hos",
+   "nombre": "Osea",
+   "capitulos": 14,
+   "paginas": 67
+  },
+  {
+   "id": "Joel",
+   "nombre": "Gioele",
+   "capitulos": 3,
+   "paginas": 26
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amos",
+   "capitulos": 9,
+   "paginas": 52
+  },
+  {
+   "id": "Obad",
+   "nombre": "Abdia",
+   "capitulos": 1,
+   "paginas": 9
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Giona",
+   "capitulos": 4,
+   "paginas": 17
+  },
+  {
+   "id": "Mic",
+   "nombre": "Michea",
+   "capitulos": 7,
+   "paginas": 39
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahum",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habacuc",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sofonia",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Hag",
+   "nombre": "Aggeo",
+   "capitulos": 2,
+   "paginas": 15
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zaccaria",
+   "capitulos": 14,
+   "paginas": 83
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malachia",
+   "capitulos": 4,
+   "paginas": 25
+  },
+  {
+   "id": "Matt",
+   "nombre": "Matteo",
+   "capitulos": 28,
+   "paginas": 286
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marco",
+   "capitulos": 16,
+   "paginas": 183
+  },
+  {
+   "id": "Luke",
+   "nombre": "Luca",
+   "capitulos": 24,
+   "paginas": 308
+  },
+  {
+   "id": "John",
+   "nombre": "Giovanni",
+   "capitulos": 21,
+   "paginas": 229
+  },
+  {
+   "id": "Acts",
+   "nombre": "Atti degli Apostoli",
+   "capitulos": 28,
+   "paginas": 309
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romani",
+   "capitulos": 16,
+   "paginas": 124
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1. Corinzi",
+   "capitulos": 16,
+   "paginas": 118
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2. Corinzi",
+   "capitulos": 13,
+   "paginas": 83
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galati",
+   "capitulos": 6,
+   "paginas": 40
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efesini",
+   "capitulos": 6,
+   "paginas": 39
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filippesi",
+   "capitulos": 4,
+   "paginas": 29
+  },
+  {
+   "id": "Col",
+   "nombre": "Colossesi",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1. Tessalonicesi",
+   "capitulos": 5,
+   "paginas": 25
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2. Tessalonicesi",
+   "capitulos": 3,
+   "paginas": 14
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1. Timoteo",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2. Timoteo",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tito",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemone",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Ebrei",
+   "capitulos": 13,
+   "paginas": 92
+  },
+  {
+   "id": "Jas",
+   "nombre": "Giacomo",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1. Pietro",
+   "capitulos": 5,
+   "paginas": 33
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2. Pietro",
+   "capitulos": 3,
+   "paginas": 21
+  },
+  {
+   "id": "1John",
+   "nombre": "1. Giovanni",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "2John",
+   "nombre": "2. Giovanni",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3. Giovanni",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Giuda",
+   "capitulos": 1,
+   "paginas": 8
+  },
+  {
+   "id": "Rev",
+   "nombre": "Apocalisse di Giovanni",
+   "capitulos": 22,
+   "paginas": 147
+  }
+ ]
+}

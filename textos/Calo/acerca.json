@@ -1,0 +1,16 @@
+{
+ "version": "Calo",
+ "licencia": "Public Domain",
+ "descripcion": "El Evangelio segun S. Lucas, traducido al Romaní, ó dialecto de los Gitanos de España",
+ "fuente": "Project Gutenberg",
+ "idioma": "rmq",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Luke",
+   "nombre": "Lucas",
+   "capitulos": 24,
+   "paginas": 309
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "version": "LvGluck8",
+ "licencia": "Public Domain",
+ "descripcion": "Latvian Glück 8th edition",
+ "fuente": "Digitalizēts Glika Bībeles 7. izdevums.",
+ "idioma": "lv",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "1 Mozus",
+   "capitulos": 50,
+   "paginas": 416
+  },
+  {
+   "id": "Exod",
+   "nombre": "2 Mozus",
+   "capitulos": 40,
+   "paginas": 348
+  },
+  {
+   "id": "Lev",
+   "nombre": "3 Mozus",
+   "capitulos": 27,
+   "paginas": 254
+  },
+  {
+   "id": "Num",
+   "nombre": "4 Mozus",
+   "capitulos": 36,
+   "paginas": 339
+  },
+  {
+   "id": "Deut",
+   "nombre": "5 Mozus",
+   "capitulos": 34,
+   "paginas": 294
+  },
+  {
+   "id": "Josh",
+   "nombre": "Jozua",
+   "capitulos": 24,
+   "paginas": 204
+  },
+  {
+   "id": "Judg",
+   "nombre": "Soģu",
+   "capitulos": 21,
+   "paginas": 205
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Rutes",
+   "capitulos": 4,
+   "paginas": 29
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1 Samuēla",
+   "capitulos": 31,
+   "paginas": 272
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2 Samuēla",
+   "capitulos": 24,
+   "paginas": 225
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1 Ķēniņu",
+   "capitulos": 22,
+   "paginas": 268
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2 Ķēniņu",
+   "capitulos": 25,
+   "paginas": 251
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1 Laiku",
+   "capitulos": 29,
+   "paginas": 223
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2 Laiku",
+   "capitulos": 36,
+   "paginas": 287
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Ezras",
+   "capitulos": 10,
+   "paginas": 81
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nehemijas",
+   "capitulos": 13,
+   "paginas": 117
+  },
+  {
+   "id": "Esth",
+   "nombre": "Esterse",
+   "capitulos": 10,
+   "paginas": 63
+  },
+  {
+   "id": "Job",
+   "nombre": "Ījaba",
+   "capitulos": 42,
+   "paginas": 202
+  },
+  {
+   "id": "Ps",
+   "nombre": "Psalmi",
+   "capitulos": 150,
+   "paginas": 511
+  },
+  {
+   "id": "Prov",
+   "nombre": "Sakāmvārdi",
+   "capitulos": 31,
+   "paginas": 163
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Mācītājs",
+   "capitulos": 12,
+   "paginas": 62
+  },
+  {
+   "id": "Song",
+   "nombre": "Dziesmu Dziesma",
+   "capitulos": 8,
+   "paginas": 32
+  },
+  {
+   "id": "Isa",
+   "nombre": "Jesajas",
+   "capitulos": 66,
+   "paginas": 396
+  },
+  {
+   "id": "Jer",
+   "nombre": "Jeremijas",
+   "capitulos": 52,
+   "paginas": 455
+  },
+  {
+   "id": "Lam",
+   "nombre": "Vaimanu Dziesmas",
+   "capitulos": 5,
+   "paginas": 37
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Ecehiāla",
+   "capitulos": 48,
+   "paginas": 419
+  },
+  {
+   "id": "Dan",
+   "nombre": "Daniēla",
+   "capitulos": 12,
+   "paginas": 128
+  },
+  {
+   "id": "Hos",
+   "nombre": "Hozejas",
+   "capitulos": 14,
+   "paginas": 57
+  },
+  {
+   "id": "Joel",
+   "nombre": "Joēla",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amosa",
+   "capitulos": 9,
+   "paginas": 46
+  },
+  {
+   "id": "Obad",
+   "nombre": "Obadjas",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Jonas",
+   "capitulos": 4,
+   "paginas": 14
+  },
+  {
+   "id": "Mic",
+   "nombre": "Mihas",
+   "capitulos": 7,
+   "paginas": 34
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahūma",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habakuka",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Cefanjas",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Hag",
+   "nombre": "Hagaja",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "Zaharijas",
+   "capitulos": 14,
+   "paginas": 70
+  },
+  {
+   "id": "Mal",
+   "nombre": "Maleahija",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Matt",
+   "nombre": "Mateja",
+   "capitulos": 28,
+   "paginas": 270
+  },
+  {
+   "id": "Mark",
+   "nombre": "Marka",
+   "capitulos": 16,
+   "paginas": 164
+  },
+  {
+   "id": "Luke",
+   "nombre": "Lūkas",
+   "capitulos": 24,
+   "paginas": 282
+  },
+  {
+   "id": "John",
+   "nombre": "Jāņa",
+   "capitulos": 21,
+   "paginas": 215
+  },
+  {
+   "id": "Acts",
+   "nombre": "Apustuļu darbi",
+   "capitulos": 28,
+   "paginas": 273
+  },
+  {
+   "id": "Rom",
+   "nombre": "Romiešiem",
+   "capitulos": 16,
+   "paginas": 109
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Korintiešiem",
+   "capitulos": 16,
+   "paginas": 103
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Korintiešiem",
+   "capitulos": 13,
+   "paginas": 72
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galatiešiem",
+   "capitulos": 6,
+   "paginas": 38
+  },
+  {
+   "id": "Eph",
+   "nombre": "Efeziešiem",
+   "capitulos": 6,
+   "paginas": 36
+  },
+  {
+   "id": "Phil",
+   "nombre": "Filipiešiem",
+   "capitulos": 4,
+   "paginas": 26
+  },
+  {
+   "id": "Col",
+   "nombre": "Kolosiešiem",
+   "capitulos": 4,
+   "paginas": 26
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Tesaloniķiešiem",
+   "capitulos": 5,
+   "paginas": 23
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Tesaloniķiešiem",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timotejam",
+   "capitulos": 6,
+   "paginas": 28
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timotejam",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "Titam",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Filemonam",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "Ebrejiem",
+   "capitulos": 13,
+   "paginas": 81
+  },
+  {
+   "id": "Jas",
+   "nombre": "Jēkaba",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Pētera",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Pētera",
+   "capitulos": 3,
+   "paginas": 18
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Jāņa",
+   "capitulos": 5,
+   "paginas": 29
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Jāņa",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Jāņa",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Jūdas",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "Atklāsmes",
+   "capitulos": 22,
+   "paginas": 135
+  }
+ ]
+}

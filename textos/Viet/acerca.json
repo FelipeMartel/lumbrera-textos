@@ -1,0 +1,406 @@
+{
+ "version": "Viet",
+ "licencia": "Public Domain",
+ "descripcion": "Kinh Thánh Tiếng Việt (1934)",
+ "fuente": "http://unbound.biola.edu/",
+ "idioma": "vi",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "Sáng Thế Ký",
+   "capitulos": 50,
+   "paginas": 421
+  },
+  {
+   "id": "Exod",
+   "nombre": "Xuất Êdíptô Ký",
+   "capitulos": 40,
+   "paginas": 336
+  },
+  {
+   "id": "Lev",
+   "nombre": "Lêvi Ký",
+   "capitulos": 27,
+   "paginas": 247
+  },
+  {
+   "id": "Num",
+   "nombre": "Dân Số Ký",
+   "capitulos": 36,
+   "paginas": 361
+  },
+  {
+   "id": "Deut",
+   "nombre": "Phục Truyền Luât Lệ Ký",
+   "capitulos": 34,
+   "paginas": 318
+  },
+  {
+   "id": "Josh",
+   "nombre": "Giôsuê",
+   "capitulos": 24,
+   "paginas": 210
+  },
+  {
+   "id": "Judg",
+   "nombre": "Các Quan Xét",
+   "capitulos": 21,
+   "paginas": 211
+  },
+  {
+   "id": "Ruth",
+   "nombre": "Rutơ",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "1Sam",
+   "nombre": "1 Samuên",
+   "capitulos": 31,
+   "paginas": 278
+  },
+  {
+   "id": "2Sam",
+   "nombre": "2 Samuên",
+   "capitulos": 24,
+   "paginas": 236
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "1 Các Vua",
+   "capitulos": 22,
+   "paginas": 272
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "2 Các Vua",
+   "capitulos": 25,
+   "paginas": 261
+  },
+  {
+   "id": "1Chr",
+   "nombre": "1 Sử ký",
+   "capitulos": 29,
+   "paginas": 257
+  },
+  {
+   "id": "2Chr",
+   "nombre": "2 Sử ký",
+   "capitulos": 36,
+   "paginas": 308
+  },
+  {
+   "id": "Ezra",
+   "nombre": "Exơra",
+   "capitulos": 10,
+   "paginas": 89
+  },
+  {
+   "id": "Neh",
+   "nombre": "Nêhêmi",
+   "capitulos": 13,
+   "paginas": 130
+  },
+  {
+   "id": "Esth",
+   "nombre": "Êxơtê",
+   "capitulos": 10,
+   "paginas": 63
+  },
+  {
+   "id": "Job",
+   "nombre": "Gióp",
+   "capitulos": 42,
+   "paginas": 228
+  },
+  {
+   "id": "Ps",
+   "nombre": "Thi Thiên",
+   "capitulos": 150,
+   "paginas": 570
+  },
+  {
+   "id": "Prov",
+   "nombre": "Châm Ngôn",
+   "capitulos": 31,
+   "paginas": 186
+  },
+  {
+   "id": "Eccl",
+   "nombre": "Truyền Đạo",
+   "capitulos": 12,
+   "paginas": 63
+  },
+  {
+   "id": "Song",
+   "nombre": "Nhã Ca",
+   "capitulos": 8,
+   "paginas": 33
+  },
+  {
+   "id": "Isa",
+   "nombre": "Êsai",
+   "capitulos": 66,
+   "paginas": 421
+  },
+  {
+   "id": "Jer",
+   "nombre": "Giêrêmi",
+   "capitulos": 52,
+   "paginas": 485
+  },
+  {
+   "id": "Lam",
+   "nombre": "Ca Thương",
+   "capitulos": 5,
+   "paginas": 37
+  },
+  {
+   "id": "Ezek",
+   "nombre": "Êxêchiên",
+   "capitulos": 48,
+   "paginas": 434
+  },
+  {
+   "id": "Dan",
+   "nombre": "Đaniên",
+   "capitulos": 12,
+   "paginas": 135
+  },
+  {
+   "id": "Hos",
+   "nombre": "Ôsê",
+   "capitulos": 14,
+   "paginas": 64
+  },
+  {
+   "id": "Joel",
+   "nombre": "Giôên",
+   "capitulos": 3,
+   "paginas": 23
+  },
+  {
+   "id": "Amos",
+   "nombre": "Amốt",
+   "capitulos": 9,
+   "paginas": 51
+  },
+  {
+   "id": "Obad",
+   "nombre": "Ápđia",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "Giôna",
+   "capitulos": 4,
+   "paginas": 16
+  },
+  {
+   "id": "Mic",
+   "nombre": "Michê",
+   "capitulos": 7,
+   "paginas": 38
+  },
+  {
+   "id": "Nah",
+   "nombre": "Nahum",
+   "capitulos": 3,
+   "paginas": 15
+  },
+  {
+   "id": "Hab",
+   "nombre": "Habacúc",
+   "capitulos": 3,
+   "paginas": 17
+  },
+  {
+   "id": "Zeph",
+   "nombre": "Sôphôni",
+   "capitulos": 3,
+   "paginas": 20
+  },
+  {
+   "id": "Hag",
+   "nombre": "Aghê",
+   "capitulos": 2,
+   "paginas": 13
+  },
+  {
+   "id": "Zech",
+   "nombre": "Xachari",
+   "capitulos": 14,
+   "paginas": 76
+  },
+  {
+   "id": "Mal",
+   "nombre": "Malachi",
+   "capitulos": 4,
+   "paginas": 24
+  },
+  {
+   "id": "Matt",
+   "nombre": "Mathiơ",
+   "capitulos": 28,
+   "paginas": 270
+  },
+  {
+   "id": "Mark",
+   "nombre": "Mác",
+   "capitulos": 16,
+   "paginas": 161
+  },
+  {
+   "id": "Luke",
+   "nombre": "Luca",
+   "capitulos": 24,
+   "paginas": 272
+  },
+  {
+   "id": "John",
+   "nombre": "Giăng",
+   "capitulos": 21,
+   "paginas": 222
+  },
+  {
+   "id": "Acts",
+   "nombre": "Công Vụ Các Sứ Đồ",
+   "capitulos": 28,
+   "paginas": 282
+  },
+  {
+   "id": "Rom",
+   "nombre": "Rôma",
+   "capitulos": 16,
+   "paginas": 127
+  },
+  {
+   "id": "1Cor",
+   "nombre": "1 Côrinhtô",
+   "capitulos": 16,
+   "paginas": 124
+  },
+  {
+   "id": "2Cor",
+   "nombre": "2 Côrinhtô",
+   "capitulos": 13,
+   "paginas": 85
+  },
+  {
+   "id": "Gal",
+   "nombre": "Galati",
+   "capitulos": 6,
+   "paginas": 44
+  },
+  {
+   "id": "Eph",
+   "nombre": "Êphêsô",
+   "capitulos": 6,
+   "paginas": 43
+  },
+  {
+   "id": "Phil",
+   "nombre": "Philíp",
+   "capitulos": 4,
+   "paginas": 28
+  },
+  {
+   "id": "Col",
+   "nombre": "Côlôse",
+   "capitulos": 4,
+   "paginas": 29
+  },
+  {
+   "id": "1Thess",
+   "nombre": "1 Têsalônica",
+   "capitulos": 5,
+   "paginas": 27
+  },
+  {
+   "id": "2Thess",
+   "nombre": "2 Têsalônica",
+   "capitulos": 3,
+   "paginas": 15
+  },
+  {
+   "id": "1Tim",
+   "nombre": "1 Timôthê",
+   "capitulos": 6,
+   "paginas": 29
+  },
+  {
+   "id": "2Tim",
+   "nombre": "2 Timôthê",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Titus",
+   "nombre": "Tít",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Phlm",
+   "nombre": "Philêmôn",
+   "capitulos": 1,
+   "paginas": 6
+  },
+  {
+   "id": "Heb",
+   "nombre": "Hêbơrơ",
+   "capitulos": 13,
+   "paginas": 86
+  },
+  {
+   "id": "Jas",
+   "nombre": "Giacơ",
+   "capitulos": 5,
+   "paginas": 30
+  },
+  {
+   "id": "1Pet",
+   "nombre": "1 Phierơ",
+   "capitulos": 5,
+   "paginas": 32
+  },
+  {
+   "id": "2Pet",
+   "nombre": "2 Phierơ",
+   "capitulos": 3,
+   "paginas": 19
+  },
+  {
+   "id": "1John",
+   "nombre": "1 Giăng",
+   "capitulos": 5,
+   "paginas": 34
+  },
+  {
+   "id": "2John",
+   "nombre": "2 Giăng",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "3John",
+   "nombre": "3 Giăng",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jude",
+   "nombre": "Giuđe",
+   "capitulos": 1,
+   "paginas": 9
+  },
+  {
+   "id": "Rev",
+   "nombre": "Khải Huyền",
+   "capitulos": 22,
+   "paginas": 134
+  }
+ ]
+}
