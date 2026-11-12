@@ -27,6 +27,10 @@ SIN_ESPACIOS = ("zh", "ja")
 # El coreano si separa palabras, pero sus letras tambien son anchas: se mide igual y se corta en espacios
 ANCHOS = SIN_ESPACIOS + ("ko",)
 ANCHO_POR_PAGINA = 520
+# Los caracteres chinos y japoneses tienen muchos trazos: a tamaño 20 se leen mal en VR, asi que su
+# pagina va mas grande (texto enriquecido de Unity) y con menos texto
+TAMANO = {"zh": 26, "ja": 26}
+ANCHO_POR_TAMANO = {26: 290}
 CJK = "⺀-⿿　-ヿ㐀-䶿一-鿿豈-﫿＀-￯"
 # Puntuacion tras la que es mejor cortar una pagina
 PAUSAS = "。，、；：？！」』）"
@@ -186,8 +190,21 @@ def cortar(trozo, espacio, en_espacios=False):
     return corte
 
 
-def paginar_ancho(capitulos, en_espacios):
-    """Como paginar, midiendo por ancho. Sin espacios entre palabras se corta entre caracteres."""
+def tamano(idioma):
+    return TAMANO.get(idioma.split("-")[0].lower())
+
+
+def paginar_ancho(capitulos, en_espacios, letra=None):
+    """Como paginar, midiendo por ancho. Sin espacios entre palabras se corta entre caracteres.
+    Con letra, cada pagina va a ese tamaño y cabe menos."""
+    limite = ANCHO_POR_TAMANO[letra] if letra else ANCHO_POR_PAGINA
+    paginas, inicios = _paginar_ancho(capitulos, en_espacios, limite)
+    if letra:
+        paginas = [f"<size={letra}>{p}</size>" for p in paginas]
+    return paginas, inicios
+
+
+def _paginar_ancho(capitulos, en_espacios, ANCHO_POR_PAGINA):
     separador = " " if en_espacios else ""
     paginas = []
     inicios = []
@@ -259,7 +276,7 @@ def exportar(version):
         if not capitulos:
             continue
         if ancho_doble(conf["idioma"]):
-            paginas, inicios = paginar_ancho(capitulos, not sin_espacios(conf["idioma"]))
+            paginas, inicios = paginar_ancho(capitulos, not sin_espacios(conf["idioma"]), tamano(conf["idioma"]))
         else:
             paginas, inicios = paginar(capitulos)
         cabecera = f"{nombre}|{len(capitulos)}|{','.join(map(str, inicios))}"

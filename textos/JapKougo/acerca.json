@@ -10,397 +10,397 @@
    "id": "Gen",
    "nombre": "創世記",
    "capitulos": 50,
-   "paginas": 383
+   "paginas": 741
   },
   {
    "id": "Exod",
    "nombre": "出エジプト記",
    "capitulos": 40,
-   "paginas": 325
+   "paginas": 632
   },
   {
    "id": "Lev",
    "nombre": "レビ記",
    "capitulos": 27,
-   "paginas": 240
+   "paginas": 482
   },
   {
    "id": "Num",
    "nombre": "民数記",
    "capitulos": 36,
-   "paginas": 325
+   "paginas": 647
   },
   {
    "id": "Deut",
    "nombre": "申命記",
    "capitulos": 34,
-   "paginas": 295
+   "paginas": 588
   },
   {
    "id": "Josh",
    "nombre": "ヨシュア記",
    "capitulos": 24,
-   "paginas": 204
+   "paginas": 396
   },
   {
    "id": "Judg",
    "nombre": "士師記",
    "capitulos": 21,
-   "paginas": 194
+   "paginas": 395
   },
   {
    "id": "Ruth",
    "nombre": "ルツ記",
    "capitulos": 4,
-   "paginas": 31
+   "paginas": 59
   },
   {
    "id": "1Sam",
    "nombre": "サムエル記上",
    "capitulos": 31,
-   "paginas": 276
+   "paginas": 549
   },
   {
    "id": "2Sam",
    "nombre": "サムエル記下",
    "capitulos": 24,
-   "paginas": 222
+   "paginas": 444
   },
   {
    "id": "1Kgs",
    "nombre": "列王紀上",
    "capitulos": 22,
-   "paginas": 236
+   "paginas": 476
   },
   {
    "id": "2Kgs",
    "nombre": "列王紀下",
    "capitulos": 25,
-   "paginas": 233
+   "paginas": 457
   },
   {
    "id": "1Chr",
    "nombre": "歴代志上",
    "capitulos": 29,
-   "paginas": 208
+   "paginas": 406
   },
   {
    "id": "2Chr",
    "nombre": "歴代志下",
    "capitulos": 36,
-   "paginas": 255
+   "paginas": 514
   },
   {
    "id": "Ezra",
    "nombre": "エズラ記",
    "capitulos": 10,
-   "paginas": 74
+   "paginas": 146
   },
   {
    "id": "Neh",
    "nombre": "ネヘミヤ記",
    "capitulos": 13,
-   "paginas": 108
+   "paginas": 215
   },
   {
    "id": "Esth",
    "nombre": "エステル記",
    "capitulos": 10,
-   "paginas": 59
+   "paginas": 115
   },
   {
    "id": "Job",
    "nombre": "ヨブ記",
    "capitulos": 42,
-   "paginas": 195
+   "paginas": 352
   },
   {
    "id": "Ps",
    "nombre": "詩篇",
    "capitulos": 129,
-   "paginas": 445
+   "paginas": 796
   },
   {
    "id": "Prov",
    "nombre": "箴言",
    "capitulos": 29,
-   "paginas": 150
+   "paginas": 264
   },
   {
    "id": "Eccl",
    "nombre": "伝道の書",
    "capitulos": 12,
-   "paginas": 58
+   "paginas": 104
   },
   {
    "id": "Song",
    "nombre": "雅歌",
    "capitulos": 8,
-   "paginas": 30
+   "paginas": 60
   },
   {
    "id": "Isa",
    "nombre": "イザヤ書",
    "capitulos": 66,
-   "paginas": 376
+   "paginas": 711
   },
   {
    "id": "Jer",
    "nombre": "エレミヤ書",
    "capitulos": 52,
-   "paginas": 435
+   "paginas": 855
   },
   {
    "id": "Lam",
    "nombre": "哀歌",
    "capitulos": 5,
-   "paginas": 36
+   "paginas": 72
   },
   {
    "id": "Ezek",
    "nombre": "エゼキエル書",
    "capitulos": 48,
-   "paginas": 365
+   "paginas": 716
   },
   {
    "id": "Dan",
    "nombre": "ダニエル書",
    "capitulos": 12,
-   "paginas": 122
+   "paginas": 236
   },
   {
    "id": "Hos",
    "nombre": "ホセア書",
    "capitulos": 14,
-   "paginas": 56
+   "paginas": 113
   },
   {
    "id": "Joel",
    "nombre": "ヨエル書",
    "capitulos": 3,
-   "paginas": 20
+   "paginas": 40
   },
   {
    "id": "Amos",
    "nombre": "アモス書",
    "capitulos": 9,
-   "paginas": 44
+   "paginas": 87
   },
   {
    "id": "Obad",
    "nombre": "オバデヤ書",
    "capitulos": 1,
-   "paginas": 6
+   "paginas": 12
   },
   {
    "id": "Jonah",
    "nombre": "ヨナ書",
    "capitulos": 4,
-   "paginas": 13
+   "paginas": 28
   },
   {
    "id": "Mic",
    "nombre": "ミカ書",
    "capitulos": 7,
-   "paginas": 32
+   "paginas": 62
   },
   {
    "id": "Nah",
    "nombre": "ナホム書",
    "capitulos": 3,
-   "paginas": 12
+   "paginas": 25
   },
   {
    "id": "Hab",
    "nombre": "ハバクク書",
    "capitulos": 3,
-   "paginas": 16
+   "paginas": 29
   },
   {
    "id": "Zeph",
    "nombre": "ゼパニヤ書",
    "capitulos": 3,
-   "paginas": 16
+   "paginas": 30
   },
   {
    "id": "Hag",
    "nombre": "ハガイ書",
    "capitulos": 2,
-   "paginas": 12
+   "paginas": 23
   },
   {
    "id": "Zech",
    "nombre": "ゼカリヤ書",
    "capitulos": 14,
-   "paginas": 64
+   "paginas": 123
   },
   {
    "id": "Mal",
    "nombre": "マラキ書",
    "capitulos": 4,
-   "paginas": 21
+   "paginas": 43
   },
   {
    "id": "Matt",
    "nombre": "マタイによる福音書",
    "capitulos": 24,
-   "paginas": 212
+   "paginas": 405
   },
   {
    "id": "Mark",
    "nombre": "マルコによる福音書",
    "capitulos": 16,
-   "paginas": 164
+   "paginas": 314
   },
   {
    "id": "Luke",
    "nombre": "ルカによる福音書",
    "capitulos": 24,
-   "paginas": 273
+   "paginas": 539
   },
   {
    "id": "John",
    "nombre": "ヨハネによる福音書",
    "capitulos": 18,
-   "paginas": 207
+   "paginas": 405
   },
   {
    "id": "Acts",
    "nombre": "使徒行伝",
    "capitulos": 28,
-   "paginas": 277
+   "paginas": 550
   },
   {
    "id": "Rom",
    "nombre": "ローマ人への手紙",
    "capitulos": 9,
-   "paginas": 69
+   "paginas": 132
   },
   {
    "id": "1Cor",
    "nombre": "コリント人への第一の手紙",
    "capitulos": 16,
-   "paginas": 116
+   "paginas": 224
   },
   {
    "id": "2Cor",
    "nombre": "コリント人への第二の手紙",
    "capitulos": 13,
-   "paginas": 83
+   "paginas": 162
   },
   {
    "id": "Gal",
    "nombre": "ガラテヤ人への手紙",
    "capitulos": 6,
-   "paginas": 41
+   "paginas": 82
   },
   {
    "id": "Eph",
    "nombre": "エペソ人への手紙",
    "capitulos": 6,
-   "paginas": 37
+   "paginas": 70
   },
   {
    "id": "Phil",
    "nombre": "ピリピ人への手紙",
    "capitulos": 4,
-   "paginas": 30
+   "paginas": 59
   },
   {
    "id": "Col",
    "nombre": "コロサイ人への手紙",
    "capitulos": 4,
-   "paginas": 27
+   "paginas": 50
   },
   {
    "id": "1Thess",
    "nombre": "テサロニケ人への第一の手紙",
    "capitulos": 5,
-   "paginas": 27
+   "paginas": 50
   },
   {
    "id": "2Thess",
    "nombre": "テサロニケ人への第二の手紙",
    "capitulos": 3,
-   "paginas": 14
+   "paginas": 28
   },
   {
    "id": "1Tim",
    "nombre": "テモテへの第一の手紙",
    "capitulos": 6,
-   "paginas": 29
+   "paginas": 57
   },
   {
    "id": "2Tim",
    "nombre": "テモテへの第一の手紙",
    "capitulos": 4,
-   "paginas": 22
+   "paginas": 39
   },
   {
    "id": "Titus",
    "nombre": "テトスへの手紙",
    "capitulos": 3,
-   "paginas": 11
+   "paginas": 23
   },
   {
    "id": "Phlm",
    "nombre": "ピレモンへの手紙",
    "capitulos": 1,
-   "paginas": 6
+   "paginas": 11
   },
   {
    "id": "Heb",
    "nombre": "ヘブル人への手紙",
    "capitulos": 13,
-   "paginas": 86
+   "paginas": 169
   },
   {
    "id": "Jas",
    "nombre": "ヤコブの手紙",
    "capitulos": 5,
-   "paginas": 30
+   "paginas": 55
   },
   {
    "id": "1Pet",
    "nombre": "ペテロの第一の手紙",
    "capitulos": 5,
-   "paginas": 31
+   "paginas": 62
   },
   {
    "id": "2Pet",
    "nombre": "ペテロの第二の手紙",
    "capitulos": 3,
-   "paginas": 19
+   "paginas": 37
   },
   {
    "id": "1John",
    "nombre": "ヨハネの第一の手紙",
    "capitulos": 5,
-   "paginas": 32
+   "paginas": 61
   },
   {
    "id": "2John",
    "nombre": "ヨハネの第二の手紙",
    "capitulos": 1,
-   "paginas": 4
+   "paginas": 8
   },
   {
    "id": "3John",
    "nombre": "ヨハネの第三の手紙",
    "capitulos": 1,
-   "paginas": 4
+   "paginas": 7
   },
   {
    "id": "Jude",
    "nombre": "ユダの手紙",
    "capitulos": 1,
-   "paginas": 8
+   "paginas": 16
   },
   {
    "id": "Rev",
    "nombre": "ヨハネの黙示録",
    "capitulos": 22,
-   "paginas": 123
+   "paginas": 241
   }
  ]
 }
