@@ -385,5 +385,41 @@
   "idioma": "vls",
   "direccion": "LtoR",
   "libros": 27
+ },
+ {
+  "version": "ChiUns",
+  "licencia": "Public Domain",
+  "descripcion": "和合本 (简体字)",
+  "fuente": "http://bible.fhl.net",
+  "idioma": "zh-Hans",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "ChiUn",
+  "licencia": "Public Domain",
+  "descripcion": "和合本 (繁體字)",
+  "fuente": "http://bible.fhl.net",
+  "idioma": "zh-Hant",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "JapKougo",
+  "licencia": "Public Domain",
+  "descripcion": "Japanese Kougo-yaku 口語訳「聖書」(1954/1955年版)",
+  "fuente": "http://bible.50webs.org/",
+  "idioma": "ja",
+  "direccion": "LtoR",
+  "libros": 66
+ },
+ {
+  "version": "KorRV",
+  "licencia": "Public Domain",
+  "descripcion": "개역성경",
+  "fuente": "Wikisource",
+  "idioma": "ko",
+  "direccion": "LtoR",
+  "libros": 66
  }
 ]

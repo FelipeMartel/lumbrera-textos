@@ -1,0 +1,406 @@
+{
+ "version": "KorRV",
+ "licencia": "Public Domain",
+ "descripcion": "개역성경",
+ "fuente": "Wikisource",
+ "idioma": "ko",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "창세기",
+   "capitulos": 50,
+   "paginas": 348
+  },
+  {
+   "id": "Exod",
+   "nombre": "출애굽기",
+   "capitulos": 40,
+   "paginas": 274
+  },
+  {
+   "id": "Lev",
+   "nombre": "레위기",
+   "capitulos": 27,
+   "paginas": 193
+  },
+  {
+   "id": "Num",
+   "nombre": "민수기",
+   "capitulos": 36,
+   "paginas": 277
+  },
+  {
+   "id": "Deut",
+   "nombre": "신명기",
+   "capitulos": 34,
+   "paginas": 254
+  },
+  {
+   "id": "Josh",
+   "nombre": "여호수아",
+   "capitulos": 24,
+   "paginas": 172
+  },
+  {
+   "id": "Judg",
+   "nombre": "사사기",
+   "capitulos": 21,
+   "paginas": 176
+  },
+  {
+   "id": "Ruth",
+   "nombre": "룻기",
+   "capitulos": 4,
+   "paginas": 25
+  },
+  {
+   "id": "1Sam",
+   "nombre": "사무엘상",
+   "capitulos": 31,
+   "paginas": 237
+  },
+  {
+   "id": "2Sam",
+   "nombre": "사무엘하",
+   "capitulos": 24,
+   "paginas": 190
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "열왕기상",
+   "capitulos": 22,
+   "paginas": 221
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "열왕기하",
+   "capitulos": 25,
+   "paginas": 208
+  },
+  {
+   "id": "1Chr",
+   "nombre": "역대상",
+   "capitulos": 29,
+   "paginas": 196
+  },
+  {
+   "id": "2Chr",
+   "nombre": "역대하",
+   "capitulos": 36,
+   "paginas": 242
+  },
+  {
+   "id": "Ezra",
+   "nombre": "에스라",
+   "capitulos": 10,
+   "paginas": 67
+  },
+  {
+   "id": "Neh",
+   "nombre": "느헤미야",
+   "capitulos": 13,
+   "paginas": 100
+  },
+  {
+   "id": "Esth",
+   "nombre": "에스더",
+   "capitulos": 10,
+   "paginas": 50
+  },
+  {
+   "id": "Job",
+   "nombre": "욥기",
+   "capitulos": 42,
+   "paginas": 185
+  },
+  {
+   "id": "Ps",
+   "nombre": "시편",
+   "capitulos": 150,
+   "paginas": 458
+  },
+  {
+   "id": "Prov",
+   "nombre": "잠언",
+   "capitulos": 31,
+   "paginas": 153
+  },
+  {
+   "id": "Eccl",
+   "nombre": "전도서",
+   "capitulos": 12,
+   "paginas": 54
+  },
+  {
+   "id": "Song",
+   "nombre": "아가",
+   "capitulos": 8,
+   "paginas": 28
+  },
+  {
+   "id": "Isa",
+   "nombre": "이사야",
+   "capitulos": 66,
+   "paginas": 370
+  },
+  {
+   "id": "Jer",
+   "nombre": "예레미야",
+   "capitulos": 52,
+   "paginas": 410
+  },
+  {
+   "id": "Lam",
+   "nombre": "예레미야애가",
+   "capitulos": 5,
+   "paginas": 34
+  },
+  {
+   "id": "Ezek",
+   "nombre": "에스겔",
+   "capitulos": 48,
+   "paginas": 346
+  },
+  {
+   "id": "Dan",
+   "nombre": "다니엘",
+   "capitulos": 12,
+   "paginas": 108
+  },
+  {
+   "id": "Hos",
+   "nombre": "호세아",
+   "capitulos": 14,
+   "paginas": 55
+  },
+  {
+   "id": "Joel",
+   "nombre": "요엘",
+   "capitulos": 3,
+   "paginas": 19
+  },
+  {
+   "id": "Amos",
+   "nombre": "아모스",
+   "capitulos": 9,
+   "paginas": 42
+  },
+  {
+   "id": "Obad",
+   "nombre": "오바댜",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Jonah",
+   "nombre": "요나",
+   "capitulos": 4,
+   "paginas": 14
+  },
+  {
+   "id": "Mic",
+   "nombre": "미가",
+   "capitulos": 7,
+   "paginas": 32
+  },
+  {
+   "id": "Nah",
+   "nombre": "나훔",
+   "capitulos": 3,
+   "paginas": 13
+  },
+  {
+   "id": "Hab",
+   "nombre": "하박국",
+   "capitulos": 3,
+   "paginas": 15
+  },
+  {
+   "id": "Zeph",
+   "nombre": "스바냐",
+   "capitulos": 3,
+   "paginas": 15
+  },
+  {
+   "id": "Hag",
+   "nombre": "학개",
+   "capitulos": 2,
+   "paginas": 12
+  },
+  {
+   "id": "Zech",
+   "nombre": "스가랴",
+   "capitulos": 14,
+   "paginas": 60
+  },
+  {
+   "id": "Mal",
+   "nombre": "말라기",
+   "capitulos": 4,
+   "paginas": 22
+  },
+  {
+   "id": "Matt",
+   "nombre": "마태복음",
+   "capitulos": 28,
+   "paginas": 217
+  },
+  {
+   "id": "Mark",
+   "nombre": "마가복음",
+   "capitulos": 16,
+   "paginas": 134
+  },
+  {
+   "id": "Luke",
+   "nombre": "누가복음",
+   "capitulos": 24,
+   "paginas": 234
+  },
+  {
+   "id": "John",
+   "nombre": "요한복음",
+   "capitulos": 21,
+   "paginas": 189
+  },
+  {
+   "id": "Acts",
+   "nombre": "사도행전",
+   "capitulos": 28,
+   "paginas": 219
+  },
+  {
+   "id": "Rom",
+   "nombre": "로마서",
+   "capitulos": 16,
+   "paginas": 100
+  },
+  {
+   "id": "1Cor",
+   "nombre": "고린도전서",
+   "capitulos": 16,
+   "paginas": 99
+  },
+  {
+   "id": "2Cor",
+   "nombre": "고린도후서",
+   "capitulos": 13,
+   "paginas": 68
+  },
+  {
+   "id": "Gal",
+   "nombre": "갈라디아서",
+   "capitulos": 6,
+   "paginas": 33
+  },
+  {
+   "id": "Eph",
+   "nombre": "에베소서",
+   "capitulos": 6,
+   "paginas": 32
+  },
+  {
+   "id": "Phil",
+   "nombre": "빌립보서",
+   "capitulos": 4,
+   "paginas": 23
+  },
+  {
+   "id": "Col",
+   "nombre": "골로새서",
+   "capitulos": 4,
+   "paginas": 21
+  },
+  {
+   "id": "1Thess",
+   "nombre": "데살로니가전서",
+   "capitulos": 5,
+   "paginas": 21
+  },
+  {
+   "id": "2Thess",
+   "nombre": "데살로니가후서",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "1Tim",
+   "nombre": "디모데전서",
+   "capitulos": 6,
+   "paginas": 25
+  },
+  {
+   "id": "2Tim",
+   "nombre": "디모데후서",
+   "capitulos": 4,
+   "paginas": 20
+  },
+  {
+   "id": "Titus",
+   "nombre": "디도서",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "Phlm",
+   "nombre": "빌레몬서",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Heb",
+   "nombre": "히브리서",
+   "capitulos": 13,
+   "paginas": 73
+  },
+  {
+   "id": "Jas",
+   "nombre": "야고보서",
+   "capitulos": 5,
+   "paginas": 24
+  },
+  {
+   "id": "1Pet",
+   "nombre": "베드로전서",
+   "capitulos": 5,
+   "paginas": 28
+  },
+  {
+   "id": "2Pet",
+   "nombre": "베드로후서",
+   "capitulos": 3,
+   "paginas": 16
+  },
+  {
+   "id": "1John",
+   "nombre": "요한일서",
+   "capitulos": 5,
+   "paginas": 28
+  },
+  {
+   "id": "2John",
+   "nombre": "요한이서",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "3John",
+   "nombre": "요한삼서",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "Jude",
+   "nombre": "유다서",
+   "capitulos": 1,
+   "paginas": 7
+  },
+  {
+   "id": "Rev",
+   "nombre": "요한계시록",
+   "capitulos": 22,
+   "paginas": 109
+  }
+ ]
+}

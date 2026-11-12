@@ -10,6 +10,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 import urllib.parse
 import urllib.request
 
@@ -19,6 +20,19 @@ SWORD = os.path.join(os.environ["APPDATA"], "Sword", "mods.d")
 
 # Una pagina de la plantilla mide 313x476 con letra 20
 CARACTERES_POR_PAGINA = 560
+
+# Idiomas sin espacios entre palabras: se pagina por ancho de caracter y se corta en cualquier sitio.
+# Un caracter chino o japones ocupa lo que dos latinos, asi que cabe la mitad por pagina.
+SIN_ESPACIOS = ("zh", "ja")
+# El coreano si separa palabras, pero sus letras tambien son anchas: se mide igual y se corta en espacios
+ANCHOS = SIN_ESPACIOS + ("ko",)
+ANCHO_POR_PAGINA = 520
+CJK = "⺀-⿿　-ヿ㐀-䶿一-鿿豈-﫿＀-￯"
+# Puntuacion tras la que es mejor cortar una pagina
+PAUSAS = "。，、；：？！」』）"
+# El modulo tradicional separa palabras y pierde a veces el espacio de respeto antes de 神;
+# el simplificado es el mismo texto caracter a caracter y lo tiene bien, asi que se copia de ahi
+ESPACIOS_DE = {"ChiUn": "ChiUns"}
 
 LICENCIAS_LIBRES = (
     "public domain",
@@ -108,6 +122,100 @@ def paginar(capitulos):
     return paginas, inicios
 
 
+def sin_espacios(idioma):
+    return idioma.split("-")[0].lower() in SIN_ESPACIOS
+
+
+def juntar(texto):
+    """Quita los espacios entre caracteres chinos o japoneses. Algunos modulos separan las palabras
+    con espacios; el chino deja solo el espacio de respeto antes de 神 (Dios)."""
+    por_palabras = re.search(rf"[{CJK}] +(?!神)[{CJK}]", texto)
+    if por_palabras:
+        # Con palabras separadas, 神 solo es Dios cuando va suelto, no en compuestos como 神蹟
+        texto = re.sub(rf"(?<=[{CJK}]) +(?=神(?: |[{PAUSAS}「『]|$))", "\0", texto)
+        texto = re.sub(rf"(?<=[{CJK}]) +(?=[{CJK}])", "", texto).replace("\0", " ")
+        return texto.strip()
+    return texto.strip()
+
+
+def copiar_espacios(texto, modelo):
+    """Pone en texto los espacios de modelo cuando, sin espacios, los dos miden lo mismo."""
+    limpio = texto.replace(" ", "")
+    if len(limpio) != len(modelo.replace(" ", "")):
+        return texto
+    salida, i = [], 0
+    for c in modelo:
+        if c == " ":
+            salida.append(" ")
+        else:
+            salida.append(limpio[i])
+            i += 1
+    return "".join(salida)
+
+
+def ancho(texto):
+    """Ancho visible: las etiquetas no cuentan y un caracter ancho vale por dos."""
+    visible = re.sub(r"<[^>]+>", "", texto.replace("<br>", "\n"))
+    return sum(2 if unicodedata.east_asian_width(c) in "WF" else 1 for c in visible)
+
+
+def ancho_doble(idioma):
+    return idioma.split("-")[0].lower() in ANCHOS
+
+
+def cortar(trozo, espacio, en_espacios=False):
+    """Mayor corte de trozo que cabe en espacio, mejor tras puntuacion (o en un espacio) y sin partir etiquetas."""
+    corte, medido = 0, 0
+    i = 0
+    while i < len(trozo):
+        if trozo[i] == "<":
+            fin = trozo.find(">", i)
+            i = fin + 1 if fin >= 0 else len(trozo)
+            continue
+        medido += 2 if unicodedata.east_asian_width(trozo[i]) in "WF" else 1
+        if medido > espacio:
+            break
+        i += 1
+        corte = i
+    if en_espacios:
+        hueco = trozo.rfind(" ", 0, corte + 1)
+        return hueco + 1 if hueco > 0 else corte
+    for j in range(corte, max(0, corte - 24), -1):
+        if trozo[j - 1] in PAUSAS:
+            return j
+    return corte
+
+
+def paginar_ancho(capitulos, en_espacios):
+    """Como paginar, midiendo por ancho. Sin espacios entre palabras se corta entre caracteres."""
+    separador = " " if en_espacios else ""
+    paginas = []
+    inicios = []
+    actual = ""
+
+    def cerrar():
+        nonlocal actual
+        if actual:
+            paginas.append(actual)
+            actual = ""
+
+    for titulo, lista in capitulos:
+        cerrar()
+        inicios.append(len(paginas))
+        actual = f"<b>{titulo}</b><br>"
+        for numero, texto in lista:
+            trozo = f"<b>{numero}</b>{separador}{texto}{separador}"
+            if ancho(actual) + ancho(trozo) > ANCHO_POR_PAGINA:
+                cerrar()
+            while ancho(trozo) > ANCHO_POR_PAGINA:
+                corte = cortar(trozo, ANCHO_POR_PAGINA, en_espacios)
+                paginas.append(trozo[:corte].rstrip())
+                trozo = trozo[corte:]
+            actual += trozo
+    cerrar()
+    return paginas, inicios
+
+
 def exportar_libro(version, libro, idioma):
     capitulos = []
     referencia = libro if libro in UN_CAPITULO else f"{libro}.1"
@@ -117,6 +225,13 @@ def exportar_libro(version, libro, idioma):
         vistos.add(referencia)
         datos = pedir_capitulo(version, referencia, idioma)
         lista = versiculos(datos["value"])
+        if sin_espacios(idioma):
+            lista = [(numero, juntar(texto)) for numero, texto in lista]
+            if version in ESPACIOS_DE:
+                modelo = dict(versiculos(pedir_capitulo(ESPACIOS_DE[version], referencia, idioma)["value"]))
+                lista = [(n, copiar_espacios(t, juntar(modelo[n])) if n in modelo else t) for n, t in lista]
+            # Espacio que no corta la linea: si no, Unity salta de linea antes de cada 神 y deja renglones cortos
+            lista = [(n, t.replace(" ", " ")) for n, t in lista]
         if not lista:
             break
         titulo = (datos.get("longName") or referencia).replace("‏", "").strip()
@@ -143,7 +258,10 @@ def exportar(version):
         nombre, capitulos = exportar_libro(version, libro, conf["idioma"])
         if not capitulos:
             continue
-        paginas, inicios = paginar(capitulos)
+        if ancho_doble(conf["idioma"]):
+            paginas, inicios = paginar_ancho(capitulos, not sin_espacios(conf["idioma"]))
+        else:
+            paginas, inicios = paginar(capitulos)
         cabecera = f"{nombre}|{len(capitulos)}|{','.join(map(str, inicios))}"
         with open(os.path.join(carpeta, libro + ".txt"), "w", encoding="utf-8", newline="\n") as archivo:
             archivo.write("\n".join([cabecera] + paginas))

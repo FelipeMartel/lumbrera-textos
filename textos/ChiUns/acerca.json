@@ -1,0 +1,406 @@
+{
+ "version": "ChiUns",
+ "licencia": "Public Domain",
+ "descripcion": "和合本 (简体字)",
+ "fuente": "http://bible.fhl.net",
+ "idioma": "zh-Hans",
+ "direccion": "LtoR",
+ "libros": [
+  {
+   "id": "Gen",
+   "nombre": "创世记",
+   "capitulos": 50,
+   "paginas": 244
+  },
+  {
+   "id": "Exod",
+   "nombre": "出埃及记",
+   "capitulos": 40,
+   "paginas": 190
+  },
+  {
+   "id": "Lev",
+   "nombre": "利未记",
+   "capitulos": 27,
+   "paginas": 136
+  },
+  {
+   "id": "Num",
+   "nombre": "民数记",
+   "capitulos": 36,
+   "paginas": 194
+  },
+  {
+   "id": "Deut",
+   "nombre": "申命记",
+   "capitulos": 34,
+   "paginas": 167
+  },
+  {
+   "id": "Josh",
+   "nombre": "约书亚记",
+   "capitulos": 24,
+   "paginas": 121
+  },
+  {
+   "id": "Judg",
+   "nombre": "士师记",
+   "capitulos": 21,
+   "paginas": 116
+  },
+  {
+   "id": "Ruth",
+   "nombre": "路得记",
+   "capitulos": 4,
+   "paginas": 16
+  },
+  {
+   "id": "1Sam",
+   "nombre": "撒母耳记上",
+   "capitulos": 31,
+   "paginas": 160
+  },
+  {
+   "id": "2Sam",
+   "nombre": "撒母耳记下",
+   "capitulos": 24,
+   "paginas": 126
+  },
+  {
+   "id": "1Kgs",
+   "nombre": "列王记上",
+   "capitulos": 22,
+   "paginas": 143
+  },
+  {
+   "id": "2Kgs",
+   "nombre": "列王记下",
+   "capitulos": 25,
+   "paginas": 140
+  },
+  {
+   "id": "1Chr",
+   "nombre": "历代志上",
+   "capitulos": 29,
+   "paginas": 141
+  },
+  {
+   "id": "2Chr",
+   "nombre": "历代志下",
+   "capitulos": 36,
+   "paginas": 159
+  },
+  {
+   "id": "Ezra",
+   "nombre": "以斯拉记",
+   "capitulos": 10,
+   "paginas": 49
+  },
+  {
+   "id": "Neh",
+   "nombre": "尼希米记",
+   "capitulos": 13,
+   "paginas": 68
+  },
+  {
+   "id": "Esth",
+   "nombre": "以斯帖记",
+   "capitulos": 10,
+   "paginas": 33
+  },
+  {
+   "id": "Job",
+   "nombre": "约伯记",
+   "capitulos": 42,
+   "paginas": 120
+  },
+  {
+   "id": "Ps",
+   "nombre": "诗篇",
+   "capitulos": 150,
+   "paginas": 333
+  },
+  {
+   "id": "Prov",
+   "nombre": "箴言",
+   "capitulos": 31,
+   "paginas": 98
+  },
+  {
+   "id": "Eccl",
+   "nombre": "传道书",
+   "capitulos": 12,
+   "paginas": 35
+  },
+  {
+   "id": "Song",
+   "nombre": "雅歌",
+   "capitulos": 8,
+   "paginas": 21
+  },
+  {
+   "id": "Isa",
+   "nombre": "以赛亚书",
+   "capitulos": 66,
+   "paginas": 245
+  },
+  {
+   "id": "Jer",
+   "nombre": "耶利米书",
+   "capitulos": 52,
+   "paginas": 273
+  },
+  {
+   "id": "Lam",
+   "nombre": "耶利米哀歌",
+   "capitulos": 5,
+   "paginas": 22
+  },
+  {
+   "id": "Ezek",
+   "nombre": "以西结书",
+   "capitulos": 48,
+   "paginas": 238
+  },
+  {
+   "id": "Dan",
+   "nombre": "但以理书",
+   "capitulos": 12,
+   "paginas": 69
+  },
+  {
+   "id": "Hos",
+   "nombre": "何西阿书",
+   "capitulos": 14,
+   "paginas": 36
+  },
+  {
+   "id": "Joel",
+   "nombre": "约珥书",
+   "capitulos": 3,
+   "paginas": 12
+  },
+  {
+   "id": "Amos",
+   "nombre": "阿摩司书",
+   "capitulos": 9,
+   "paginas": 28
+  },
+  {
+   "id": "Obad",
+   "nombre": "俄巴底亚书",
+   "capitulos": 1,
+   "paginas": 4
+  },
+  {
+   "id": "Jonah",
+   "nombre": "约拿书",
+   "capitulos": 4,
+   "paginas": 9
+  },
+  {
+   "id": "Mic",
+   "nombre": "弥迦书",
+   "capitulos": 7,
+   "paginas": 21
+  },
+  {
+   "id": "Nah",
+   "nombre": "那鸿书",
+   "capitulos": 3,
+   "paginas": 8
+  },
+  {
+   "id": "Hab",
+   "nombre": "哈巴谷书",
+   "capitulos": 3,
+   "paginas": 10
+  },
+  {
+   "id": "Zeph",
+   "nombre": "西番雅书",
+   "capitulos": 3,
+   "paginas": 10
+  },
+  {
+   "id": "Hag",
+   "nombre": "哈该书",
+   "capitulos": 2,
+   "paginas": 7
+  },
+  {
+   "id": "Zech",
+   "nombre": "撒迦利亚书",
+   "capitulos": 14,
+   "paginas": 40
+  },
+  {
+   "id": "Mal",
+   "nombre": "玛拉基书",
+   "capitulos": 4,
+   "paginas": 13
+  },
+  {
+   "id": "Matt",
+   "nombre": "马太福音",
+   "capitulos": 28,
+   "paginas": 155
+  },
+  {
+   "id": "Mark",
+   "nombre": "马可福音",
+   "capitulos": 16,
+   "paginas": 96
+  },
+  {
+   "id": "Luke",
+   "nombre": "路加福音",
+   "capitulos": 24,
+   "paginas": 165
+  },
+  {
+   "id": "John",
+   "nombre": "约翰福音",
+   "capitulos": 21,
+   "paginas": 127
+  },
+  {
+   "id": "Acts",
+   "nombre": "使徒行传",
+   "capitulos": 28,
+   "paginas": 154
+  },
+  {
+   "id": "Rom",
+   "nombre": "罗马书",
+   "capitulos": 16,
+   "paginas": 66
+  },
+  {
+   "id": "1Cor",
+   "nombre": "歌林多前书",
+   "capitulos": 16,
+   "paginas": 67
+  },
+  {
+   "id": "2Cor",
+   "nombre": "歌林多后书",
+   "capitulos": 13,
+   "paginas": 45
+  },
+  {
+   "id": "Gal",
+   "nombre": "加拉太书",
+   "capitulos": 6,
+   "paginas": 23
+  },
+  {
+   "id": "Eph",
+   "nombre": "以弗所书",
+   "capitulos": 6,
+   "paginas": 23
+  },
+  {
+   "id": "Phil",
+   "nombre": "腓利比书",
+   "capitulos": 4,
+   "paginas": 16
+  },
+  {
+   "id": "Col",
+   "nombre": "歌罗西书",
+   "capitulos": 4,
+   "paginas": 16
+  },
+  {
+   "id": "1Thess",
+   "nombre": "帖撒罗尼迦前书",
+   "capitulos": 5,
+   "paginas": 15
+  },
+  {
+   "id": "2Thess",
+   "nombre": "帖撒罗尼迦后书",
+   "capitulos": 3,
+   "paginas": 8
+  },
+  {
+   "id": "1Tim",
+   "nombre": "提摩太前书",
+   "capitulos": 6,
+   "paginas": 18
+  },
+  {
+   "id": "2Tim",
+   "nombre": "提摩太后书",
+   "capitulos": 4,
+   "paginas": 13
+  },
+  {
+   "id": "Titus",
+   "nombre": "提多书",
+   "capitulos": 3,
+   "paginas": 8
+  },
+  {
+   "id": "Phlm",
+   "nombre": "腓利门书",
+   "capitulos": 1,
+   "paginas": 3
+  },
+  {
+   "id": "Heb",
+   "nombre": "希伯来书",
+   "capitulos": 13,
+   "paginas": 49
+  },
+  {
+   "id": "Jas",
+   "nombre": "雅各书",
+   "capitulos": 5,
+   "paginas": 17
+  },
+  {
+   "id": "1Pet",
+   "nombre": "彼得前书",
+   "capitulos": 5,
+   "paginas": 19
+  },
+  {
+   "id": "2Pet",
+   "nombre": "彼得后书",
+   "capitulos": 3,
+   "paginas": 11
+  },
+  {
+   "id": "1John",
+   "nombre": "约翰一书",
+   "capitulos": 5,
+   "paginas": 18
+  },
+  {
+   "id": "2John",
+   "nombre": "约 翰二书",
+   "capitulos": 1,
+   "paginas": 2
+  },
+  {
+   "id": "3John",
+   "nombre": "约翰三书",
+   "capitulos": 1,
+   "paginas": 2
+  },
+  {
+   "id": "Jude",
+   "nombre": "犹大书",
+   "capitulos": 1,
+   "paginas": 5
+  },
+  {
+   "id": "Rev",
+   "nombre": "启示录",
+   "capitulos": 22,
+   "paginas": 75
+  }
+ ]
+}
